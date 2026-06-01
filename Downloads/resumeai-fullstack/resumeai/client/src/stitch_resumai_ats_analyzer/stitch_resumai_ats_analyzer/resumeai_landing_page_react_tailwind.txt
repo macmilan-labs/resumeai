@@ -1,0 +1,154 @@
+import React from 'react';
+
+// Reusable Navbar Component
+const Navbar = () => (
+  <nav className="flex justify-between items-center px-8 py-6 bg-white border-b border-gray-100 sticky top-0 z-50">
+    <div className="flex items-center gap-8">
+      <div className="text-2xl font-black tracking-tighter text-[#2563EB]">ResumeAI</div>
+      <div className="hidden md:flex gap-6 text-sm font-medium text-gray-600">
+        <a href="#" className="hover:text-[#2563EB] transition-colors">Dashboard</a>
+        <a href="#" className="hover:text-[#2563EB] transition-colors">Analyze</a>
+        <a href="#" className="hover:text-[#2563EB] transition-colors">Reports</a>
+        <a href="#" className="hover:text-[#2563EB] transition-colors">Billing</a>
+      </div>
+    </div>
+    <div className="flex items-center gap-4">
+      <div className="flex items-center gap-2 px-3 py-1 bg-blue-50 text-[#2563EB] text-xs font-bold rounded-full">
+        Pro Plan
+      </div>
+      <button className="text-gray-500 hover:text-gray-700 transition-colors">
+        <span className="material-icons-outlined">notifications</span>
+      </button>
+      <div className="w-10 h-10 rounded-full bg-gray-200 overflow-hidden border-2 border-white shadow-sm">
+        <img src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&q=80&w=100" alt="Profile" />
+      </div>
+    </div>
+  </nav>
+);
+
+// Reusable Hero Component
+const Hero = () => (
+  <header className="py-24 px-8 text-center max-w-4xl mx-auto">
+    <div className="inline-block px-4 py-1.5 mb-6 text-xs font-bold tracking-widest text-[#2563EB] uppercase bg-blue-50 rounded-full">
+      AI-Powered Recruitment Intelligence
+    </div>
+    <h1 className="text-6xl md:text-7xl font-black text-gray-900 leading-[1.1] mb-8">
+      Stop getting rejected by <span className="text-[#2563EB]">ATS filters.</span>
+    </h1>
+    <p className="text-xl text-gray-500 mb-12 max-w-2xl mx-auto leading-relaxed">
+      Our precision AI analyzes your resume against 500+ corporate algorithms. Bridge the skill gap and secure more callbacks with data-driven curation.
+    </p>
+    <div className="flex flex-col sm:flex-row justify-center gap-4">
+      <button className="px-8 py-4 bg-[#F97316] hover:bg-[#EA580C] text-white font-bold rounded-xl shadow-lg shadow-orange-200 transition-all active:scale-95">
+        Analyze Resume Now
+      </button>
+      <button className="px-8 py-4 bg-white border border-gray-200 text-gray-700 font-bold rounded-xl hover:bg-gray-50 transition-all active:scale-95">
+        View Sample Report
+      </button>
+    </div>
+    <div className="mt-16 flex flex-wrap justify-center items-center gap-8 grayscale opacity-50">
+      <span className="font-bold text-gray-400">Google</span>
+      <span className="font-bold text-gray-400">Stripe</span>
+      <span className="font-bold text-gray-400">Meta</span>
+      <span className="font-bold text-gray-400">Netflix</span>
+    </div>
+  </header>
+);
+
+// Reusable Stats Component
+const StatsSection = () => (
+  <section className="py-20 bg-gray-50 border-y border-gray-100">
+    <div className="max-w-7xl mx-auto px-8 grid grid-cols-1 md:grid-cols-3 gap-12 text-center">
+      <div>
+        <div className="text-5xl font-black text-[#2563EB] mb-2">1.2M+</div>
+        <div className="text-gray-500 font-medium">Resumes Analyzed</div>
+      </div>
+      <div>
+        <div className="text-5xl font-black text-[#2563EB] mb-2">150K+</div>
+        <div className="text-gray-500 font-medium">Active Users</div>
+      </div>
+      <div>
+        <div className="text-5xl font-black text-[#2563EB] mb-2">85%</div>
+        <div className="text-gray-500 font-medium">Higher Callback Rate</div>
+      </div>
+    </div>
+  </section>
+);
+
+// Reusable Feature Component
+const FeatureCards = () => (
+  <section className="py-24 max-w-7xl mx-auto px-8">
+    <div className="text-center mb-16">
+      <div className="inline-block px-3 py-1 mb-4 text-[10px] font-bold tracking-[0.2em] text-[#2563EB] uppercase bg-blue-50 rounded-md">
+        Core Capabilities
+      </div>
+      <h2 className="text-4xl font-black text-gray-900">Engineered for Results</h2>
+    </div>
+    <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+      {[
+        { title: 'ATS Score Analysis', icon: 'assessment', desc: 'Proprietary scoring model based on current ATS algorithms used by Fortune 500 companies.' },
+        { title: 'Skill Gap Detection', icon: 'psychology', desc: 'Automated comparison against target job descriptions to identify missing technical and soft skills.' },
+        { title: 'AI Suggestions', icon: 'auto_awesome', desc: 'Editorial-grade phrasing suggestions that emphasize impact and results over simple tasks.' }
+      ].map((f, i) => (
+        <div key={i} className="group p-10 bg-white border border-gray-100 rounded-3xl hover:shadow-2xl hover:shadow-blue-500/10 transition-all duration-300">
+          <div className="w-14 h-14 bg-blue-600 text-white rounded-xl flex items-center justify-center mb-8 shadow-lg shadow-blue-200 group-hover:scale-110 transition-transform">
+            <span className="material-icons-outlined text-3xl">{f.icon}</span>
+          </div>
+          <h3 className="text-2xl font-bold text-gray-900 mb-4">{f.title}</h3>
+          <p className="text-gray-500 leading-relaxed mb-8">{f.desc}</p>
+          <a href="#" className="text-[#2563EB] font-bold flex items-center gap-2 group-hover:translate-x-1 transition-transform">
+            Learn more <span className="material-icons-outlined text-lg">arrow_forward</span>
+          </a>
+        </div>
+      ))}
+    </div>
+  </section>
+);
+
+// Reusable CTA Component
+const CTASection = () => (
+  <section className="px-8 pb-24">
+    <div className="max-w-7xl mx-auto bg-blue-600 rounded-[3rem] p-16 md:p-24 text-center relative overflow-hidden shadow-2xl shadow-blue-200">
+      <div className="relative z-10">
+        <h2 className="text-5xl md:text-6xl font-black text-white mb-8">Ready to bypass the digital gatekeepers?</h2>
+        <p className="text-xl text-blue-100 mb-12 max-w-2xl mx-auto leading-relaxed">
+          Join 150,000+ professionals who have transformed their career search with ResumeAI's precision analysis.
+        </p>
+        <div className="flex flex-col sm:flex-row justify-center gap-4">
+          <button className="px-10 py-5 bg-[#F97316] hover:bg-[#EA580C] text-white font-bold rounded-2xl shadow-xl transition-all active:scale-95">
+            Get Started for Free
+          </button>
+          <button className="px-10 py-5 bg-white/10 hover:bg-white/20 text-white border border-white/20 font-bold rounded-2xl transition-all backdrop-blur-md">
+            Talk to Support
+          </button>
+        </div>
+      </div>
+      <div className="absolute top-0 left-0 w-full h-full opacity-10 pointer-events-none">
+        <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[120%] h-[120%] bg-[radial-gradient(circle,white_1px,transparent_1px)] bg-[size:32px_32px]"></div>
+      </div>
+    </div>
+  </section>
+);
+
+export default function LandingPage() {
+  return (
+    <div className="min-h-screen bg-white font-['Inter'] selection:bg-blue-100 selection:text-blue-600">
+      <Navbar />
+      <Hero />
+      <StatsSection />
+      <FeatureCards />
+      <CTASection />
+      <footer className="py-12 px-8 border-t border-gray-100">
+        <div className="max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-center gap-8">
+          <div className="text-xl font-black text-[#2563EB]">ResumeAI</div>
+          <div className="flex gap-8 text-sm text-gray-400">
+            <a href="#" className="hover:text-gray-900 transition-colors">Terms of Service</a>
+            <a href="#" className="hover:text-gray-900 transition-colors">Privacy Policy</a>
+            <a href="#" className="hover:text-gray-900 transition-colors">Support</a>
+          </div>
+          <div className="text-sm text-gray-400">© 2024 ResumeAI. All rights reserved.</div>
+        </div>
+      </footer>
+    </div>
+  );
+}

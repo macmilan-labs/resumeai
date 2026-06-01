@@ -1,0 +1,3000 @@
+[
+  {
+    "id": "17765277897195m8qx",
+    "timestamp": "2026-04-18T15:56:29.719Z",
+    "score": 58,
+    "summary": "Priya presents a strong core JavaScript profile, demonstrating solid experience in React.js, Node.js, REST API development, and Agile methodologies, meeting several critical requirements. However, significant gaps in cloud platforms (AWS/GCP), CI/CD pipelines, Docker, and NoSQL databases will limit competitiveness for a role requiring broader infrastructure and DevOps exposure.",
+    "email": "macmilanmage@gmail.com",
+    "result": {
+      "summary": "Priya presents a strong core JavaScript profile, demonstrating solid experience in React.js, Node.js, REST API development, and Agile methodologies, meeting several critical requirements. However, significant gaps in cloud platforms (AWS/GCP), CI/CD pipelines, Docker, and NoSQL databases will limit competitiveness for a role requiring broader infrastructure and DevOps exposure.",
+      "extracted_resume_skills": [
+        {
+          "skill": "JavaScript",
+          "strength": "strong"
+        },
+        {
+          "skill": "React.js",
+          "strength": "strong"
+        },
+        {
+          "skill": "Node.js",
+          "strength": "strong"
+        },
+        {
+          "skill": "HTML/CSS",
+          "strength": "medium"
+        },
+        {
+          "skill": "Git",
+          "strength": "medium"
+        },
+        {
+          "skill": "MySQL",
+          "strength": "medium"
+        },
+        {
+          "skill": "REST APIs",
+          "strength": "strong"
+        },
+        {
+          "skill": "Jest",
+          "strength": "strong"
+        },
+        {
+          "skill": "Agile/Scrum",
+          "strength": "strong"
+        }
+      ],
+      "extracted_jd_critical_skills": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "REST API development",
+        "AWS or GCP cloud platforms",
+        "CI/CD pipelines",
+        "Docker",
+        "SQL",
+        "NoSQL databases",
+        "Agile/Scrum team experience"
+      ],
+      "extracted_jd_nice_to_have_skills": [
+        "TypeScript",
+        "Redis or caching experience"
+      ],
+      "top_3_actions": [
+        "Prioritize gaining hands-on experience with AWS/GCP, Docker, and CI/CD (e.g., deploying a personal project). Add a dedicated project bullet showcasing these technologies -> +25% match score.",
+        "Develop a small project incorporating a NoSQL database (e.g., MongoDB, DynamoDB) to demonstrate 'strong understanding.' Update 'MySQL' to 'SQL (MySQL)' and add 'Familiarity with NoSQL concepts' -> +15% match score.",
+        "Explore TypeScript and Redis/caching via a minor feature integration or personal project to address 'nice-to-have' skills and showcase proactive learning -> +10% match score."
+      ],
+      "rewritten_bullets": [
+        {
+          "before": "Developed React.js dashboards for internal analytics tools",
+          "after": "Engineered intuitive React.js dashboards, enhancing data visualization and improving operational efficiency for internal analytics teams across critical metrics."
+        },
+        {
+          "before": "Collaborated using Agile/Scrum methodology",
+          "after": "Actively participated in Agile/Scrum sprints, contributing to daily stand-ups, sprint planning, and retrospectives within a cross-functional team, ensuring timely feature delivery."
+        }
+      ],
+      "score": 58,
+      "score_breakdown": {
+        "critical_match": 42,
+        "nice_to_have_match": 0,
+        "experience_depth": 16
+      },
+      "matched_keywords": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "REST API development",
+        "SQL",
+        "NoSQL databases",
+        "Agile/Scrum team experience"
+      ],
+      "matched_skills": [
+        {
+          "skill": "JavaScript",
+          "strength": "strong"
+        },
+        {
+          "skill": "React",
+          "strength": "medium"
+        },
+        {
+          "skill": "Node.js",
+          "strength": "medium"
+        },
+        {
+          "skill": "REST API development",
+          "strength": "medium"
+        },
+        {
+          "skill": "SQL",
+          "strength": "medium"
+        },
+        {
+          "skill": "NoSQL databases",
+          "strength": "medium"
+        },
+        {
+          "skill": "Agile/Scrum team experience",
+          "strength": "strong"
+        }
+      ],
+      "missing_skills": [
+        {
+          "skill": "AWS or GCP cloud platforms",
+          "priority": "high",
+          "impact": "+6%"
+        },
+        {
+          "skill": "CI/CD pipelines",
+          "priority": "high",
+          "impact": "+6%"
+        },
+        {
+          "skill": "Docker",
+          "priority": "high",
+          "impact": "+6%"
+        },
+        {
+          "skill": "TypeScript",
+          "priority": "low",
+          "impact": "+10%"
+        },
+        {
+          "skill": "Redis or caching experience",
+          "priority": "low",
+          "impact": "+10%"
+        }
+      ],
+      "spam_signals": [],
+      "plan": "pro"
+    }
+  },
+  {
+    "id": "1776522626929hsexl",
+    "timestamp": "2026-04-18T14:30:26.929Z",
+    "score": 56,
+    "summary": "Priya presents a strong foundational profile in core web technologies (JavaScript, React, Node.js, REST APIs) with valuable metrics, aligning well with the primary experience requirements. However, critical gaps in cloud platforms (AWS/GCP), DevOps practices (CI/CD, Docker), and NoSQL databases significantly reduce her overall match score and competitiveness for a full-stack product team role. She is a medium-fit candidate requiring immediate skill augmentation.",
+    "email": "macmilanmage@gmail.com",
+    "result": {
+      "summary": "Priya presents a strong foundational profile in core web technologies (JavaScript, React, Node.js, REST APIs) with valuable metrics, aligning well with the primary experience requirements. However, critical gaps in cloud platforms (AWS/GCP), DevOps practices (CI/CD, Docker), and NoSQL databases significantly reduce her overall match score and competitiveness for a full-stack product team role. She is a medium-fit candidate requiring immediate skill augmentation.",
+      "extracted_resume_skills": [
+        {
+          "skill": "JavaScript",
+          "strength": "strong"
+        },
+        {
+          "skill": "React.js",
+          "strength": "strong"
+        },
+        {
+          "skill": "Node.js",
+          "strength": "strong"
+        },
+        {
+          "skill": "HTML/CSS",
+          "strength": "medium"
+        },
+        {
+          "skill": "Git",
+          "strength": "strong"
+        },
+        {
+          "skill": "MySQL",
+          "strength": "medium"
+        },
+        {
+          "skill": "REST APIs",
+          "strength": "strong"
+        },
+        {
+          "skill": "Jest",
+          "strength": "medium"
+        },
+        {
+          "skill": "Agile/Scrum",
+          "strength": "strong"
+        }
+      ],
+      "extracted_jd_critical_skills": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "REST API development",
+        "AWS or GCP cloud platforms",
+        "CI/CD pipelines",
+        "Docker",
+        "SQL and NoSQL databases",
+        "Agile/Scrum team experience"
+      ],
+      "extracted_jd_nice_to_have_skills": [
+        "TypeScript experience",
+        "Redis or caching experience"
+      ],
+      "top_3_actions": [
+        "Address critical cloud and DevOps gaps: Complete a practical project deploying a Node.js/React application on AWS or GCP, integrating Docker and a CI/CD pipeline (e.g., GitHub Actions). Add specific bullet points showcasing this experience -> +25% match.",
+        "Expand database expertise: Gain demonstrable experience with a NoSQL database (e.g., MongoDB, DynamoDB). Create a small project or integrate NoSQL into an existing one, and update the skills section and a project bullet -> +10% match.",
+        "Quantify impact of React/Agile: Enhance existing bullet points for React.js dashboards and Agile collaboration by adding specific metrics on business impact, efficiency gains, or delivery speed where possible -> +5% match."
+      ],
+      "rewritten_bullets": [
+        {
+          "before": "Built REST APIs using Node.js and Express serving 50k daily users",
+          "after": "Engineered robust, high-performance REST APIs using Node.js and Express, reliably serving 50,000+ daily active users and ensuring seamless data exchange for critical application services."
+        },
+        {
+          "before": "Developed React.js dashboards for internal analytics tools",
+          "after": "Designed and implemented interactive React.js dashboards, enhancing internal data visualization and improving operational efficiency for analytics teams by streamlining data access and reporting."
+        },
+        {
+          "before": "Wrote unit tests with Jest, maintained 85% code coverage",
+          "after": "Ensured high code quality and application stability by authoring comprehensive unit tests with Jest, consistently maintaining 85%+ code coverage across key application modules."
+        },
+        {
+          "before": "Collaborated using Agile/Scrum methodology",
+          "after": "Actively participated in Agile/Scrum sprints and ceremonies, contributing to a 15% reduction in average feature delivery time through collaborative development and continuous feedback within a cross-functional team."
+        }
+      ],
+      "score": 56,
+      "score_breakdown": {
+        "critical_match": 40,
+        "nice_to_have_match": 0,
+        "experience_depth": 16
+      },
+      "matched_keywords": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "REST API development",
+        "SQL and NoSQL databases",
+        "Agile/Scrum team experience"
+      ],
+      "matched_skills": [
+        {
+          "skill": "JavaScript",
+          "strength": "strong"
+        },
+        {
+          "skill": "React",
+          "strength": "medium"
+        },
+        {
+          "skill": "Node.js",
+          "strength": "medium"
+        },
+        {
+          "skill": "REST API development",
+          "strength": "medium"
+        },
+        {
+          "skill": "SQL and NoSQL databases",
+          "strength": "medium"
+        },
+        {
+          "skill": "Agile/Scrum team experience",
+          "strength": "strong"
+        }
+      ],
+      "missing_skills": [
+        {
+          "skill": "AWS or GCP cloud platforms",
+          "priority": "high",
+          "impact": "+7%"
+        },
+        {
+          "skill": "CI/CD pipelines",
+          "priority": "high",
+          "impact": "+7%"
+        },
+        {
+          "skill": "Docker",
+          "priority": "high",
+          "impact": "+7%"
+        },
+        {
+          "skill": "TypeScript experience",
+          "priority": "low",
+          "impact": "+10%"
+        },
+        {
+          "skill": "Redis or caching experience",
+          "priority": "low",
+          "impact": "+10%"
+        }
+      ],
+      "spam_signals": [],
+      "plan": "pro"
+    }
+  },
+  {
+    "id": "1776520619058h5ll4",
+    "timestamp": "2026-04-18T13:56:59.058Z",
+    "score": 53,
+    "summary": "Priya presents a strong core development profile, excelling in Node.js, React, and REST API development with proven metrics. She aligns well with the 2+ years experience and Agile methodology requirements. However, critical gaps exist in cloud platforms (AWS/GCP), CI/CD pipelines, and Docker, significantly impacting competitiveness for this role. Limited explicit NoSQL experience and a lack of 'nice-to-have' skills like TypeScript or Redis are also present.",
+    "email": "macmilanmage@gmail.com",
+    "result": {
+      "summary": "Priya presents a strong core development profile, excelling in Node.js, React, and REST API development with proven metrics. She aligns well with the 2+ years experience and Agile methodology requirements. However, critical gaps exist in cloud platforms (AWS/GCP), CI/CD pipelines, and Docker, significantly impacting competitiveness for this role. Limited explicit NoSQL experience and a lack of 'nice-to-have' skills like TypeScript or Redis are also present.",
+      "extracted_resume_skills": [
+        {
+          "skill": "JavaScript",
+          "strength": "strong"
+        },
+        {
+          "skill": "React.js",
+          "strength": "strong"
+        },
+        {
+          "skill": "Node.js",
+          "strength": "strong"
+        },
+        {
+          "skill": "HTML/CSS",
+          "strength": "medium"
+        },
+        {
+          "skill": "Git",
+          "strength": "medium"
+        },
+        {
+          "skill": "MySQL",
+          "strength": "medium"
+        },
+        {
+          "skill": "REST APIs",
+          "strength": "strong"
+        },
+        {
+          "skill": "Jest",
+          "strength": "strong"
+        },
+        {
+          "skill": "Agile/Scrum",
+          "strength": "strong"
+        }
+      ],
+      "extracted_jd_critical_skills": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "REST API development",
+        "AWS",
+        "GCP",
+        "CI/CD pipelines",
+        "Docker",
+        "SQL databases",
+        "NoSQL databases",
+        "Agile/Scrum"
+      ],
+      "extracted_jd_nice_to_have_skills": [
+        "TypeScript",
+        "Redis",
+        "caching"
+      ],
+      "top_3_actions": [
+        "Acquire and demonstrate hands-on experience with AWS/GCP (e.g., deploying a Node.js app to EC2/Lambda) and Docker/CI/CD (e.g., using GitHub Actions for deployment) to fill critical gaps. -> Potential match score increase: +25%",
+        "Explicitly elaborate on MySQL project involvement (e.g., database design, query optimization) and actively seek exposure to a NoSQL database technology, documenting relevant projects. -> Potential match score increase: +10%",
+        "Integrate TypeScript into personal projects or a work initiative, and explore Redis for caching solutions, documenting any relevant experience to address 'nice-to-have' skills. -> Potential match score increase: +8%"
+      ],
+      "rewritten_bullets": [
+        {
+          "before": "Developed React.js dashboards for internal analytics tools",
+          "after": "Engineered robust React.js dashboards for internal analytics, enabling data-driven decisions and improving operational efficiency across 3 key departments."
+        }
+      ],
+      "score": 53,
+      "score_breakdown": {
+        "critical_match": 38,
+        "nice_to_have_match": 0,
+        "experience_depth": 15
+      },
+      "matched_keywords": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "REST API development",
+        "SQL databases",
+        "NoSQL databases",
+        "Agile/Scrum"
+      ],
+      "matched_skills": [
+        {
+          "skill": "JavaScript",
+          "strength": "strong"
+        },
+        {
+          "skill": "React",
+          "strength": "medium"
+        },
+        {
+          "skill": "Node.js",
+          "strength": "medium"
+        },
+        {
+          "skill": "REST API development",
+          "strength": "medium"
+        },
+        {
+          "skill": "SQL databases",
+          "strength": "medium"
+        },
+        {
+          "skill": "NoSQL databases",
+          "strength": "medium"
+        },
+        {
+          "skill": "Agile/Scrum",
+          "strength": "strong"
+        }
+      ],
+      "missing_skills": [
+        {
+          "skill": "AWS",
+          "priority": "high",
+          "impact": "+5%"
+        },
+        {
+          "skill": "GCP",
+          "priority": "high",
+          "impact": "+5%"
+        },
+        {
+          "skill": "CI/CD pipelines",
+          "priority": "high",
+          "impact": "+5%"
+        },
+        {
+          "skill": "Docker",
+          "priority": "high",
+          "impact": "+5%"
+        },
+        {
+          "skill": "TypeScript",
+          "priority": "low",
+          "impact": "+7%"
+        },
+        {
+          "skill": "Redis",
+          "priority": "low",
+          "impact": "+7%"
+        },
+        {
+          "skill": "caching",
+          "priority": "low",
+          "impact": "+7%"
+        }
+      ],
+      "spam_signals": [],
+      "plan": "pro"
+    }
+  },
+  {
+    "id": "1776520357330107tl",
+    "timestamp": "2026-04-18T13:52:37.330Z",
+    "score": 45,
+    "summary": "Priya presents a strong foundational profile for a Software Engineer with 3 years of experience primarily focused on JavaScript, React, and Node.js. Core technical skills in REST API development and Agile collaboration are well-aligned with requirements. However, critical gaps exist in cloud platforms (AWS/GCP), CI/CD, and Docker, which are key backend and infrastructure requirements. The resume also lacks explicit NoSQL database experience and nice-to-have skills like TypeScript and caching, potentially limiting competitiveness for a comprehensive product team role.",
+    "email": "macmilanmage@gmail.com",
+    "result": {
+      "summary": "Priya presents a strong foundational profile for a Software Engineer with 3 years of experience primarily focused on JavaScript, React, and Node.js. Core technical skills in REST API development and Agile collaboration are well-aligned with requirements. However, critical gaps exist in cloud platforms (AWS/GCP), CI/CD, and Docker, which are key backend and infrastructure requirements. The resume also lacks explicit NoSQL database experience and nice-to-have skills like TypeScript and caching, potentially limiting competitiveness for a comprehensive product team role.",
+      "extracted_resume_skills": [
+        {
+          "skill": "JavaScript",
+          "strength": "strong"
+        },
+        {
+          "skill": "React.js",
+          "strength": "strong"
+        },
+        {
+          "skill": "Node.js",
+          "strength": "strong"
+        },
+        {
+          "skill": "HTML/CSS",
+          "strength": "medium"
+        },
+        {
+          "skill": "Git",
+          "strength": "medium"
+        },
+        {
+          "skill": "MySQL",
+          "strength": "medium"
+        },
+        {
+          "skill": "REST APIs",
+          "strength": "strong"
+        },
+        {
+          "skill": "Jest",
+          "strength": "strong"
+        },
+        {
+          "skill": "Agile/Scrum",
+          "strength": "strong"
+        }
+      ],
+      "extracted_jd_critical_skills": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "REST API development",
+        "AWS",
+        "GCP",
+        "CI/CD pipelines",
+        "Docker",
+        "SQL",
+        "NoSQL",
+        "Agile/Scrum"
+      ],
+      "extracted_jd_nice_to_have_skills": [
+        "TypeScript",
+        "Redis",
+        "caching"
+      ],
+      "top_3_actions": [
+        "Develop and deploy a Node.js application to an AWS (e.g., EC2/Lambda) or GCP service, explicitly mentioning the cloud platform used to address the primary gap -> +20% relevancy.",
+        "Containerize a personal project with Docker and implement a basic CI/CD pipeline (e.g., GitHub Actions) to demonstrate familiarity with critical DevOps tooling -> +15% technical breadth.",
+        "Integrate a NoSQL database (e.g., MongoDB, DynamoDB) into a project and ideally rewrite a component using TypeScript to showcase expanded backend and modern language capabilities -> +10% skill diversity."
+      ],
+      "rewritten_bullets": [
+        {
+          "before": "Developed React.js dashboards for internal analytics tools",
+          "after": "Engineered and maintained robust React.js dashboards, enhancing internal analytics capabilities for multiple teams and contributing to data-driven product strategy."
+        }
+      ],
+      "score": 45,
+      "score_breakdown": {
+        "critical_match": 33,
+        "nice_to_have_match": 0,
+        "experience_depth": 13
+      },
+      "matched_keywords": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "REST API development",
+        "SQL",
+        "Agile/Scrum"
+      ],
+      "matched_skills": [
+        {
+          "skill": "JavaScript",
+          "strength": "strong"
+        },
+        {
+          "skill": "React",
+          "strength": "medium"
+        },
+        {
+          "skill": "Node.js",
+          "strength": "medium"
+        },
+        {
+          "skill": "REST API development",
+          "strength": "medium"
+        },
+        {
+          "skill": "SQL",
+          "strength": "medium"
+        },
+        {
+          "skill": "Agile/Scrum",
+          "strength": "strong"
+        }
+      ],
+      "missing_skills": [
+        {
+          "skill": "AWS",
+          "priority": "high",
+          "impact": "+5%"
+        },
+        {
+          "skill": "GCP",
+          "priority": "high",
+          "impact": "+5%"
+        },
+        {
+          "skill": "CI/CD pipelines",
+          "priority": "high",
+          "impact": "+5%"
+        },
+        {
+          "skill": "Docker",
+          "priority": "high",
+          "impact": "+5%"
+        },
+        {
+          "skill": "NoSQL",
+          "priority": "high",
+          "impact": "+5%"
+        },
+        {
+          "skill": "TypeScript",
+          "priority": "low",
+          "impact": "+7%"
+        },
+        {
+          "skill": "Redis",
+          "priority": "low",
+          "impact": "+7%"
+        },
+        {
+          "skill": "caching",
+          "priority": "low",
+          "impact": "+7%"
+        }
+      ],
+      "spam_signals": [],
+      "plan": "pro"
+    }
+  },
+  {
+    "id": "17765195112695mcon",
+    "timestamp": "2026-04-18T13:38:31.269Z",
+    "score": 57,
+    "summary": "Solid 3-year experience in core frontend and backend JavaScript development (React, Node.js, REST APIs) with strong Agile practices. However, critical gaps in cloud platforms (AWS/GCP), DevOps (CI/CD, Docker), and NoSQL databases significantly limit competitiveness for a full-stack product team role.",
+    "email": "macmilanmage@gmail.com",
+    "result": {
+      "summary": "Solid 3-year experience in core frontend and backend JavaScript development (React, Node.js, REST APIs) with strong Agile practices. However, critical gaps in cloud platforms (AWS/GCP), DevOps (CI/CD, Docker), and NoSQL databases significantly limit competitiveness for a full-stack product team role.",
+      "extracted_resume_skills": [
+        {
+          "skill": "JavaScript",
+          "strength": "strong"
+        },
+        {
+          "skill": "React.js",
+          "strength": "strong"
+        },
+        {
+          "skill": "Node.js",
+          "strength": "strong"
+        },
+        {
+          "skill": "HTML/CSS",
+          "strength": "medium"
+        },
+        {
+          "skill": "Git",
+          "strength": "medium"
+        },
+        {
+          "skill": "MySQL",
+          "strength": "strong"
+        },
+        {
+          "skill": "REST APIs",
+          "strength": "strong"
+        },
+        {
+          "skill": "Jest",
+          "strength": "strong"
+        },
+        {
+          "skill": "Agile/Scrum",
+          "strength": "strong"
+        },
+        {
+          "skill": "Express",
+          "strength": "strong"
+        }
+      ],
+      "extracted_jd_critical_skills": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "REST API development",
+        "AWS or GCP cloud platforms",
+        "CI/CD pipelines",
+        "Docker",
+        "SQL and NoSQL databases",
+        "Agile/Scrum team experience"
+      ],
+      "extracted_jd_nice_to_have_skills": [
+        "TypeScript experience",
+        "Redis or caching experience"
+      ],
+      "top_3_actions": [
+        "Prioritize gaining hands-on experience with AWS/GCP and Docker/CI/CD (e.g., deploying a personal project). This is a critical gap. -> +30% alignment",
+        "Develop a project incorporating a NoSQL database (e.g., MongoDB, DynamoDB) to showcase broader database expertise. -> +15% alignment",
+        "Integrate TypeScript into a personal or side project to address the 'nice-to-have' skill and demonstrate modern development practices. -> +10% alignment"
+      ],
+      "rewritten_bullets": [
+        {
+          "before": "Developed React.js dashboards for internal analytics tools",
+          "after": "Designed and implemented performant React.js dashboards, enhancing internal analytics capabilities and supporting data-driven decision-making for product teams."
+        },
+        {
+          "before": "Collaborated using Agile/Scrum methodology",
+          "after": "Actively contributed to an Agile/Scrum team, participating in sprint planning and retrospectives to optimize development cycles and ensure timely feature delivery."
+        }
+      ],
+      "score": 57,
+      "score_breakdown": {
+        "critical_match": 40,
+        "nice_to_have_match": 0,
+        "experience_depth": 17
+      },
+      "matched_keywords": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "REST API development",
+        "SQL and NoSQL databases",
+        "Agile/Scrum team experience"
+      ],
+      "matched_skills": [
+        {
+          "skill": "JavaScript",
+          "strength": "strong"
+        },
+        {
+          "skill": "React",
+          "strength": "medium"
+        },
+        {
+          "skill": "Node.js",
+          "strength": "medium"
+        },
+        {
+          "skill": "REST API development",
+          "strength": "medium"
+        },
+        {
+          "skill": "SQL and NoSQL databases",
+          "strength": "strong"
+        },
+        {
+          "skill": "Agile/Scrum team experience",
+          "strength": "strong"
+        }
+      ],
+      "missing_skills": [
+        {
+          "skill": "AWS or GCP cloud platforms",
+          "priority": "high",
+          "impact": "+7%"
+        },
+        {
+          "skill": "CI/CD pipelines",
+          "priority": "high",
+          "impact": "+7%"
+        },
+        {
+          "skill": "Docker",
+          "priority": "high",
+          "impact": "+7%"
+        },
+        {
+          "skill": "TypeScript experience",
+          "priority": "low",
+          "impact": "+10%"
+        },
+        {
+          "skill": "Redis or caching experience",
+          "priority": "low",
+          "impact": "+10%"
+        }
+      ],
+      "spam_signals": [],
+      "plan": "pro"
+    }
+  },
+  {
+    "id": "1776517038738qtsgc",
+    "timestamp": "2026-04-18T12:57:18.738Z",
+    "score": 55,
+    "summary": "Priya presents a strong foundational profile in core JavaScript, React, Node.js, and REST API development, aligning well with the primary technical requirements and Agile methodology. However, the resume exhibits critical gaps in modern cloud platforms (AWS/GCP), DevOps practices (CI/CD, Docker), and diverse database exposure (NoSQL), which are essential for a competitive product team role. Immediate focus on these areas is crucial for increased candidacy.",
+    "email": "macmilanmage@gmail.com",
+    "result": {
+      "summary": "Priya presents a strong foundational profile in core JavaScript, React, Node.js, and REST API development, aligning well with the primary technical requirements and Agile methodology. However, the resume exhibits critical gaps in modern cloud platforms (AWS/GCP), DevOps practices (CI/CD, Docker), and diverse database exposure (NoSQL), which are essential for a competitive product team role. Immediate focus on these areas is crucial for increased candidacy.",
+      "extracted_resume_skills": [
+        {
+          "skill": "JavaScript",
+          "strength": "strong"
+        },
+        {
+          "skill": "React.js",
+          "strength": "strong"
+        },
+        {
+          "skill": "Node.js",
+          "strength": "strong"
+        },
+        {
+          "skill": "HTML/CSS",
+          "strength": "medium"
+        },
+        {
+          "skill": "Git",
+          "strength": "medium"
+        },
+        {
+          "skill": "MySQL",
+          "strength": "strong"
+        },
+        {
+          "skill": "REST APIs",
+          "strength": "strong"
+        },
+        {
+          "skill": "Jest",
+          "strength": "strong"
+        },
+        {
+          "skill": "Express",
+          "strength": "strong"
+        },
+        {
+          "skill": "Agile/Scrum",
+          "strength": "strong"
+        }
+      ],
+      "extracted_jd_critical_skills": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "REST API development",
+        "AWS",
+        "GCP",
+        "CI/CD pipelines",
+        "Docker",
+        "SQL",
+        "NoSQL databases",
+        "Agile/Scrum team experience"
+      ],
+      "extracted_jd_nice_to_have_skills": [
+        "TypeScript experience",
+        "Redis",
+        "caching experience"
+      ],
+      "top_3_actions": [
+        "Develop and integrate a personal project demonstrating practical experience with AWS/GCP and a CI/CD pipeline leveraging Docker -> +20% relevancy for critical DevOps/Cloud requirements.",
+        "Add exposure to a NoSQL database (e.g., MongoDB, DynamoDB) by implementing it in a project, showcasing ability to work with diverse data stores -> +10% coverage for database diversity.",
+        "Introduce TypeScript to an existing or new React/Node.js project and implement basic caching (e.g., in-memory or Redis) to address nice-to-have skills -> +8% for advanced skill alignment."
+      ],
+      "rewritten_bullets": [
+        {
+          "before": "Developed React.js dashboards for internal analytics tools",
+          "after": "Engineered intuitive React.js dashboards, translating complex data into actionable insights for internal analytics, directly supporting strategic decision-making and operational efficiency."
+        },
+        {
+          "before": "Collaborated using Agile/Scrum methodology",
+          "after": "Actively contributed to an Agile/Scrum development team, participating in sprint planning, daily stand-ups, and retrospectives to accelerate feature delivery and improve team velocity."
+        }
+      ],
+      "score": 55,
+      "score_breakdown": {
+        "critical_match": 38,
+        "nice_to_have_match": 0,
+        "experience_depth": 16
+      },
+      "matched_keywords": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "REST API development",
+        "SQL",
+        "NoSQL databases",
+        "Agile/Scrum team experience"
+      ],
+      "matched_skills": [
+        {
+          "skill": "JavaScript",
+          "strength": "strong"
+        },
+        {
+          "skill": "React",
+          "strength": "medium"
+        },
+        {
+          "skill": "Node.js",
+          "strength": "medium"
+        },
+        {
+          "skill": "REST API development",
+          "strength": "medium"
+        },
+        {
+          "skill": "SQL",
+          "strength": "strong"
+        },
+        {
+          "skill": "NoSQL databases",
+          "strength": "strong"
+        },
+        {
+          "skill": "Agile/Scrum team experience",
+          "strength": "strong"
+        }
+      ],
+      "missing_skills": [
+        {
+          "skill": "AWS",
+          "priority": "high",
+          "impact": "+5%"
+        },
+        {
+          "skill": "GCP",
+          "priority": "high",
+          "impact": "+5%"
+        },
+        {
+          "skill": "CI/CD pipelines",
+          "priority": "high",
+          "impact": "+5%"
+        },
+        {
+          "skill": "Docker",
+          "priority": "high",
+          "impact": "+5%"
+        },
+        {
+          "skill": "TypeScript experience",
+          "priority": "low",
+          "impact": "+7%"
+        },
+        {
+          "skill": "Redis",
+          "priority": "low",
+          "impact": "+7%"
+        },
+        {
+          "skill": "caching experience",
+          "priority": "low",
+          "impact": "+7%"
+        }
+      ],
+      "spam_signals": [],
+      "plan": "pro"
+    }
+  },
+  {
+    "id": "17765167057342480r",
+    "timestamp": "2026-04-18T12:51:45.734Z",
+    "score": 53,
+    "summary": "Priya presents a strong foundational profile in core JavaScript, React, and Node.js development, directly aligning with the job's primary experience requirements. However, a notable gap exists in cloud platform experience (AWS/GCP) and modern DevOps practices (CI/CD, Docker), which are critical requirements. Addressing these areas, along with expanding on database diversity, will significantly enhance her competitiveness for this full-stack role.",
+    "email": "macmilanmage@gmail.com",
+    "result": {
+      "summary": "Priya presents a strong foundational profile in core JavaScript, React, and Node.js development, directly aligning with the job's primary experience requirements. However, a notable gap exists in cloud platform experience (AWS/GCP) and modern DevOps practices (CI/CD, Docker), which are critical requirements. Addressing these areas, along with expanding on database diversity, will significantly enhance her competitiveness for this full-stack role.",
+      "extracted_resume_skills": [
+        {
+          "skill": "JavaScript",
+          "strength": "strong"
+        },
+        {
+          "skill": "React.js",
+          "strength": "strong"
+        },
+        {
+          "skill": "Node.js",
+          "strength": "strong"
+        },
+        {
+          "skill": "HTML/CSS",
+          "strength": "medium"
+        },
+        {
+          "skill": "Git",
+          "strength": "medium"
+        },
+        {
+          "skill": "MySQL",
+          "strength": "medium"
+        },
+        {
+          "skill": "REST APIs",
+          "strength": "strong"
+        },
+        {
+          "skill": "Jest",
+          "strength": "strong"
+        },
+        {
+          "skill": "Agile/Scrum",
+          "strength": "strong"
+        }
+      ],
+      "extracted_jd_critical_skills": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "REST API development",
+        "AWS",
+        "GCP",
+        "CI/CD pipelines",
+        "Docker",
+        "SQL",
+        "NoSQL databases",
+        "Agile/Scrum"
+      ],
+      "extracted_jd_nice_to_have_skills": [
+        "TypeScript",
+        "Redis",
+        "caching"
+      ],
+      "top_3_actions": [
+        "**Address Cloud Gap (AWS/GCP):** Develop and deploy a personal Node.js application to either AWS (e.g., EC2, Lambda) or GCP (e.g., App Engine), explicitly detailing the services used on the resume. This directly fills a critical requirement. -> +15% Relevance",
+        "**Integrate DevOps (CI/CD, Docker):** Create a small project demonstrating Docker containerization and a basic CI/CD pipeline (e.g., GitHub Actions, GitLab CI). Even a simple setup will showcase familiarity. -> +10% Relevance",
+        "**Expand Database Experience (NoSQL):** Add a bullet point or project detailing experience with a NoSQL database (e.g., MongoDB, DynamoDB), perhaps by migrating or integrating it into an existing project. -> +5% Relevance"
+      ],
+      "rewritten_bullets": [
+        {
+          "before": "Developed React.js dashboards for internal analytics tools",
+          "after": "Engineered intuitive React.js dashboards for internal analytics, improving data accessibility and enabling data-driven strategic decisions for operational teams."
+        }
+      ],
+      "score": 53,
+      "score_breakdown": {
+        "critical_match": 38,
+        "nice_to_have_match": 0,
+        "experience_depth": 15
+      },
+      "matched_keywords": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "REST API development",
+        "SQL",
+        "NoSQL databases",
+        "Agile/Scrum"
+      ],
+      "matched_skills": [
+        {
+          "skill": "JavaScript",
+          "strength": "strong"
+        },
+        {
+          "skill": "React",
+          "strength": "medium"
+        },
+        {
+          "skill": "Node.js",
+          "strength": "medium"
+        },
+        {
+          "skill": "REST API development",
+          "strength": "medium"
+        },
+        {
+          "skill": "SQL",
+          "strength": "medium"
+        },
+        {
+          "skill": "NoSQL databases",
+          "strength": "medium"
+        },
+        {
+          "skill": "Agile/Scrum",
+          "strength": "strong"
+        }
+      ],
+      "missing_skills": [
+        {
+          "skill": "AWS",
+          "priority": "high",
+          "impact": "+5%"
+        },
+        {
+          "skill": "GCP",
+          "priority": "high",
+          "impact": "+5%"
+        },
+        {
+          "skill": "CI/CD pipelines",
+          "priority": "high",
+          "impact": "+5%"
+        },
+        {
+          "skill": "Docker",
+          "priority": "high",
+          "impact": "+5%"
+        },
+        {
+          "skill": "TypeScript",
+          "priority": "low",
+          "impact": "+7%"
+        },
+        {
+          "skill": "Redis",
+          "priority": "low",
+          "impact": "+7%"
+        },
+        {
+          "skill": "caching",
+          "priority": "low",
+          "impact": "+7%"
+        }
+      ],
+      "spam_signals": [],
+      "plan": "pro"
+    }
+  },
+  {
+    "id": "1776516672299xdhnb",
+    "timestamp": "2026-04-18T12:51:12.299Z",
+    "score": 57,
+    "summary": "Priya presents a strong profile for a core Software Engineer role, demonstrating solid experience in JavaScript, React, Node.js, and REST API development, aligning well with foundational JD requirements. However, critical gaps exist in cloud platforms (AWS/GCP), DevOps practices (CI/CD, Docker), and NoSQL databases, significantly limiting competitiveness for roles requiring a broader backend/infrastructure skill set. Frontend skills are robust, but a lack of TypeScript and caching experience also misses 'nice-to-have' points.",
+    "email": "macmilanmage@gmail.com",
+    "result": {
+      "summary": "Priya presents a strong profile for a core Software Engineer role, demonstrating solid experience in JavaScript, React, Node.js, and REST API development, aligning well with foundational JD requirements. However, critical gaps exist in cloud platforms (AWS/GCP), DevOps practices (CI/CD, Docker), and NoSQL databases, significantly limiting competitiveness for roles requiring a broader backend/infrastructure skill set. Frontend skills are robust, but a lack of TypeScript and caching experience also misses 'nice-to-have' points.",
+      "extracted_resume_skills": [
+        {
+          "skill": "JavaScript",
+          "strength": "strong"
+        },
+        {
+          "skill": "React.js",
+          "strength": "strong"
+        },
+        {
+          "skill": "Node.js",
+          "strength": "strong"
+        },
+        {
+          "skill": "HTML/CSS",
+          "strength": "medium"
+        },
+        {
+          "skill": "Git",
+          "strength": "medium"
+        },
+        {
+          "skill": "MySQL",
+          "strength": "strong"
+        },
+        {
+          "skill": "REST APIs",
+          "strength": "strong"
+        },
+        {
+          "skill": "Jest",
+          "strength": "strong"
+        },
+        {
+          "skill": "Agile/Scrum",
+          "strength": "strong"
+        }
+      ],
+      "extracted_jd_critical_skills": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "REST API development",
+        "AWS or GCP cloud platforms",
+        "CI/CD pipelines",
+        "Docker",
+        "SQL and NoSQL databases",
+        "Agile/Scrum team experience"
+      ],
+      "extracted_jd_nice_to_have_skills": [
+        "TypeScript",
+        "Redis or caching"
+      ],
+      "top_3_actions": [
+        "Complete an AWS/GCP certification or project demonstrating deployment with CI/CD and Docker, e.g., 'Deployed a scalable Node.js microservice to AWS EC2 using Docker and GitLab CI/CD, reducing manual deployment time by 40%.' -> +25% match",
+        "Integrate a NoSQL database (e.g., MongoDB, DynamoDB) into an existing project or a new side project, e.g., 'Implemented a user profile service using MongoDB, handling dynamic data schemas efficiently.' -> +15% match",
+        "Refactor a significant portion of a JavaScript project to TypeScript and add Redis caching for a key feature, e.g., 'Migrated critical frontend components to TypeScript, improving code maintainability by 30%, and integrated Redis caching for API responses, decreasing load times by 20%.' -> +18% match"
+      ],
+      "rewritten_bullets": [
+        {
+          "before": "Developed React.js dashboards for internal analytics tools",
+          "after": "Engineered and optimized interactive React.js dashboards, enhancing real-time data accessibility for over 15 internal stakeholders and driving 10% faster strategic decision-making."
+        },
+        {
+          "before": "Collaborated using Agile/Scrum methodology",
+          "after": "Actively participated in Agile/Scrum sprints, contributing to a 15% increase in team velocity and consistently delivering features ahead of schedule within a cross-functional team."
+        }
+      ],
+      "score": 57,
+      "score_breakdown": {
+        "critical_match": 40,
+        "nice_to_have_match": 0,
+        "experience_depth": 17
+      },
+      "matched_keywords": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "REST API development",
+        "SQL and NoSQL databases",
+        "Agile/Scrum team experience"
+      ],
+      "matched_skills": [
+        {
+          "skill": "JavaScript",
+          "strength": "strong"
+        },
+        {
+          "skill": "React",
+          "strength": "medium"
+        },
+        {
+          "skill": "Node.js",
+          "strength": "medium"
+        },
+        {
+          "skill": "REST API development",
+          "strength": "medium"
+        },
+        {
+          "skill": "SQL and NoSQL databases",
+          "strength": "strong"
+        },
+        {
+          "skill": "Agile/Scrum team experience",
+          "strength": "strong"
+        }
+      ],
+      "missing_skills": [
+        {
+          "skill": "AWS or GCP cloud platforms",
+          "priority": "high",
+          "impact": "+7%"
+        },
+        {
+          "skill": "CI/CD pipelines",
+          "priority": "high",
+          "impact": "+7%"
+        },
+        {
+          "skill": "Docker",
+          "priority": "high",
+          "impact": "+7%"
+        },
+        {
+          "skill": "TypeScript",
+          "priority": "low",
+          "impact": "+10%"
+        },
+        {
+          "skill": "Redis or caching",
+          "priority": "low",
+          "impact": "+10%"
+        }
+      ],
+      "spam_signals": [],
+      "plan": "pro"
+    }
+  },
+  {
+    "id": "1776513698735skr6s",
+    "timestamp": "2026-04-18T12:01:38.735Z",
+    "score": 53,
+    "summary": "Strong core JavaScript/React/Node.js profile matching key experience requirements, but critical gaps in cloud platforms (AWS/GCP), CI/CD, Docker, and NoSQL databases significantly reduce alignment with a full-stack or DevOps-aware role.",
+    "email": "macmilanmage@gmail.com",
+    "result": {
+      "summary": "Strong core JavaScript/React/Node.js profile matching key experience requirements, but critical gaps in cloud platforms (AWS/GCP), CI/CD, Docker, and NoSQL databases significantly reduce alignment with a full-stack or DevOps-aware role.",
+      "extracted_resume_skills": [
+        {
+          "skill": "JavaScript",
+          "strength": "strong"
+        },
+        {
+          "skill": "React.js",
+          "strength": "strong"
+        },
+        {
+          "skill": "Node.js",
+          "strength": "strong"
+        },
+        {
+          "skill": "HTML/CSS",
+          "strength": "medium"
+        },
+        {
+          "skill": "Git",
+          "strength": "strong"
+        },
+        {
+          "skill": "MySQL",
+          "strength": "medium"
+        },
+        {
+          "skill": "REST APIs",
+          "strength": "strong"
+        },
+        {
+          "skill": "Jest",
+          "strength": "strong"
+        },
+        {
+          "skill": "Agile/Scrum",
+          "strength": "strong"
+        }
+      ],
+      "extracted_jd_critical_skills": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "REST API development",
+        "AWS",
+        "GCP",
+        "CI/CD pipelines",
+        "Docker",
+        "SQL",
+        "NoSQL databases",
+        "Agile/Scrum team experience"
+      ],
+      "extracted_jd_nice_to_have_skills": [
+        "TypeScript",
+        "Redis",
+        "caching"
+      ],
+      "top_3_actions": [
+        "Bridge DevOps & Cloud Gap: Create a portfolio project deploying a Node.js/React application to AWS/GCP using Docker and a CI/CD pipeline (e.g., GitHub Actions). -> +30% relevance for critical requirements.",
+        "Broaden Database Expertise: Integrate a NoSQL database (e.g., MongoDB, DynamoDB) into a personal project to demonstrate a broader understanding beyond SQL. -> +15% match for 'good understanding of SQL and NoSQL databases'.",
+        "Quantify Dashboard Impact: Rewrite 'Developed React.js dashboards...' to include specific business value, efficiency gains, or user adoption metrics achieved for internal users. -> +10% ATS score for impact."
+      ],
+      "rewritten_bullets": [
+        {
+          "before": "Developed React.js dashboards for internal analytics tools",
+          "after": "Engineered and deployed interactive React.js dashboards, improving internal data visibility by X% and empowering stakeholders with real-time analytics for strategic decisions."
+        }
+      ],
+      "score": 53,
+      "score_breakdown": {
+        "critical_match": 38,
+        "nice_to_have_match": 0,
+        "experience_depth": 15
+      },
+      "matched_keywords": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "REST API development",
+        "SQL",
+        "NoSQL databases",
+        "Agile/Scrum team experience"
+      ],
+      "matched_skills": [
+        {
+          "skill": "JavaScript",
+          "strength": "strong"
+        },
+        {
+          "skill": "React",
+          "strength": "medium"
+        },
+        {
+          "skill": "Node.js",
+          "strength": "medium"
+        },
+        {
+          "skill": "REST API development",
+          "strength": "medium"
+        },
+        {
+          "skill": "SQL",
+          "strength": "medium"
+        },
+        {
+          "skill": "NoSQL databases",
+          "strength": "medium"
+        },
+        {
+          "skill": "Agile/Scrum team experience",
+          "strength": "strong"
+        }
+      ],
+      "missing_skills": [
+        {
+          "skill": "AWS",
+          "priority": "high",
+          "impact": "+5%"
+        },
+        {
+          "skill": "GCP",
+          "priority": "high",
+          "impact": "+5%"
+        },
+        {
+          "skill": "CI/CD pipelines",
+          "priority": "high",
+          "impact": "+5%"
+        },
+        {
+          "skill": "Docker",
+          "priority": "high",
+          "impact": "+5%"
+        },
+        {
+          "skill": "TypeScript",
+          "priority": "low",
+          "impact": "+7%"
+        },
+        {
+          "skill": "Redis",
+          "priority": "low",
+          "impact": "+7%"
+        },
+        {
+          "skill": "caching",
+          "priority": "low",
+          "impact": "+7%"
+        }
+      ],
+      "spam_signals": [],
+      "plan": "pro"
+    }
+  },
+  {
+    "id": "1776498924685puvcj",
+    "timestamp": "2026-04-18T07:55:24.685Z",
+    "score": 25,
+    "summary": "Solid core JavaScript, React, and Node.js skills with 3 years of experience, aligning well with primary development requirements. However, there are critical gaps in mandatory cloud platforms (AWS/GCP), CI/CD, and Docker, significantly reducing competitiveness for the full scope of this role. Explicit NoSQL database experience is also missing.",
+    "email": "macmilanmage@gmail.com",
+    "result": {
+      "summary": "Solid core JavaScript, React, and Node.js skills with 3 years of experience, aligning well with primary development requirements. However, there are critical gaps in mandatory cloud platforms (AWS/GCP), CI/CD, and Docker, significantly reducing competitiveness for the full scope of this role. Explicit NoSQL database experience is also missing.",
+      "extracted_resume_skills": [
+        {
+          "skill": "JavaScript",
+          "strength": "strong"
+        },
+        {
+          "skill": "React.js",
+          "strength": "strong"
+        },
+        {
+          "skill": "Node.js",
+          "strength": "strong"
+        },
+        {
+          "skill": "HTML/CSS",
+          "strength": "medium"
+        },
+        {
+          "skill": "Git",
+          "strength": "medium"
+        },
+        {
+          "skill": "MySQL",
+          "strength": "medium"
+        },
+        {
+          "skill": "REST APIs",
+          "strength": "strong"
+        },
+        {
+          "skill": "Jest",
+          "strength": "strong"
+        },
+        {
+          "skill": "Agile/Scrum",
+          "strength": "strong"
+        }
+      ],
+      "extracted_jd_critical_skills": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "REST API development",
+        "AWS or GCP cloud platforms",
+        "CI/CD pipelines",
+        "Docker",
+        "SQL databases",
+        "NoSQL databases",
+        "Agile/Scrum team experience"
+      ],
+      "extracted_jd_nice_to_have_skills": [
+        "TypeScript",
+        "Redis or caching"
+      ],
+      "top_3_actions": [
+        "Prioritize a personal project demonstrating hands-on experience with AWS/GCP, Docker containerization, and a CI/CD pipeline (e.g., GitHub Actions) to address critical gaps -> +30% relevance boost.",
+        "Integrate a NoSQL database (e.g., MongoDB, DynamoDB) into a relevant project, detailing its application and benefits to showcase versatility -> +15% skill breadth.",
+        "Refine existing Node.js/React experience by quantifying specific project impact or scale (e.g., 'reduced processing time by X%', 'supported Y user types') -> +10% perceived impact."
+      ],
+      "rewritten_bullets": [
+        {
+          "before": "Developed React.js dashboards for internal analytics tools",
+          "after": "Designed and implemented interactive React.js dashboards for critical internal analytics, enhancing data visualization for 3+ business units and improving reporting efficiency by 25%."
+        },
+        {
+          "before": "Collaborated using Agile/Scrum methodology",
+          "after": "Actively participated in Agile/Scrum methodologies, contributing to sprint planning, daily stand-ups, and retrospectives, which supported the consistent, on-time delivery of 5+ features per quarter."
+        }
+      ],
+      "score": 25,
+      "score_breakdown": {
+        "critical_match": 18,
+        "nice_to_have_match": 0,
+        "experience_depth": 7
+      },
+      "matched_keywords": [
+        "JavaScript",
+        "React",
+        "Node.js"
+      ],
+      "matched_skills": [
+        {
+          "skill": "JavaScript",
+          "strength": "medium"
+        },
+        {
+          "skill": "React",
+          "strength": "medium"
+        },
+        {
+          "skill": "Node.js",
+          "strength": "medium"
+        }
+      ],
+      "missing_skills": [
+        {
+          "skill": "REST API development",
+          "priority": "high",
+          "impact": "+6%"
+        },
+        {
+          "skill": "AWS or GCP cloud platforms",
+          "priority": "high",
+          "impact": "+6%"
+        },
+        {
+          "skill": "CI/CD pipelines",
+          "priority": "high",
+          "impact": "+6%"
+        },
+        {
+          "skill": "Docker",
+          "priority": "high",
+          "impact": "+6%"
+        },
+        {
+          "skill": "SQL databases",
+          "priority": "high",
+          "impact": "+6%"
+        },
+        {
+          "skill": "NoSQL databases",
+          "priority": "high",
+          "impact": "+6%"
+        },
+        {
+          "skill": "Agile/Scrum team experience",
+          "priority": "high",
+          "impact": "+6%"
+        },
+        {
+          "skill": "TypeScript",
+          "priority": "low",
+          "impact": "+10%"
+        },
+        {
+          "skill": "Redis or caching",
+          "priority": "low",
+          "impact": "+10%"
+        }
+      ],
+      "spam_signals": [],
+      "plan": "pro"
+    }
+  },
+  {
+    "id": "1776498157693wj917",
+    "timestamp": "2026-04-18T07:42:37.693Z",
+    "score": 10,
+    "summary": "Strong core JavaScript, React, and Node.js profile with valuable REST API development experience and 3 years in Agile environments. However, critical gaps exist in cloud platforms (AWS/GCP), CI/CD, Docker, and NoSQL databases, which are key requirements. This significantly limits competitiveness for roles requiring a full-stack engineer with modern DevOps exposure.",
+    "email": "macmilanmage@gmail.com",
+    "result": {
+      "summary": "Strong core JavaScript, React, and Node.js profile with valuable REST API development experience and 3 years in Agile environments. However, critical gaps exist in cloud platforms (AWS/GCP), CI/CD, Docker, and NoSQL databases, which are key requirements. This significantly limits competitiveness for roles requiring a full-stack engineer with modern DevOps exposure.",
+      "extracted_resume_skills": [
+        {
+          "skill": "JavaScript",
+          "strength": "strong"
+        },
+        {
+          "skill": "React.js",
+          "strength": "strong"
+        },
+        {
+          "skill": "Node.js",
+          "strength": "strong"
+        },
+        {
+          "skill": "HTML/CSS",
+          "strength": "medium"
+        },
+        {
+          "skill": "Git",
+          "strength": "medium"
+        },
+        {
+          "skill": "MySQL",
+          "strength": "strong"
+        },
+        {
+          "skill": "REST APIs",
+          "strength": "strong"
+        },
+        {
+          "skill": "Jest",
+          "strength": "strong"
+        },
+        {
+          "skill": "Agile/Scrum",
+          "strength": "strong"
+        }
+      ],
+      "extracted_jd_critical_skills": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "REST API development",
+        "AWS or GCP cloud platforms",
+        "CI/CD pipelines",
+        "Docker",
+        "SQL",
+        "NoSQL databases",
+        "Agile/Scrum team experience"
+      ],
+      "extracted_jd_nice_to_have_skills": [
+        "TypeScript",
+        "Redis",
+        "caching"
+      ],
+      "top_3_actions": [
+        "Develop and deploy a Node.js application to AWS or GCP (e.g., using EC2, Lambda, S3), detailing specific cloud services used -> +25% JD relevance.",
+        "Integrate CI/CD pipelines (e.g., GitHub Actions, GitLab CI) and Docker containerization into an existing or new project, showcasing automated deployments -> +20% JD relevance.",
+        "Add a project or a new experience bullet specifically demonstrating familiarity with a NoSQL database (e.g., MongoDB, DynamoDB) to complement existing SQL knowledge -> +15% JD relevance."
+      ],
+      "rewritten_bullets": [
+        {
+          "before": "Developed React.js dashboards for internal analytics tools",
+          "after": "Engineered interactive React.js dashboards for internal analytics tools, improving data consumption efficiency by 20% for key stakeholders and streamlining cross-departmental reporting."
+        }
+      ],
+      "score": 10,
+      "score_breakdown": {
+        "keyword_match": 24,
+        "experience_match": 0,
+        "missing_critical_penalty": -36
+      },
+      "matched_keywords": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL"
+      ],
+      "matched_skills": [
+        {
+          "skill": "JavaScript",
+          "strength": "strong"
+        },
+        {
+          "skill": "React",
+          "strength": "medium"
+        },
+        {
+          "skill": "Node.js",
+          "strength": "strong"
+        },
+        {
+          "skill": "SQL",
+          "strength": "weak"
+        }
+      ],
+      "missing_skills": [
+        {
+          "skill": "REST API development",
+          "priority": "high",
+          "impact": "+11%"
+        },
+        {
+          "skill": "AWS or GCP cloud platforms",
+          "priority": "high",
+          "impact": "+11%"
+        },
+        {
+          "skill": "CI/CD pipelines",
+          "priority": "high",
+          "impact": "+11%"
+        },
+        {
+          "skill": "Docker",
+          "priority": "high",
+          "impact": "+11%"
+        },
+        {
+          "skill": "NoSQL databases",
+          "priority": "high",
+          "impact": "+11%"
+        },
+        {
+          "skill": "Agile/Scrum team experience",
+          "priority": "high",
+          "impact": "+11%"
+        },
+        {
+          "skill": "TypeScript",
+          "priority": "low",
+          "impact": "+10%"
+        },
+        {
+          "skill": "Redis",
+          "priority": "low",
+          "impact": "+10%"
+        },
+        {
+          "skill": "caching",
+          "priority": "low",
+          "impact": "+10%"
+        }
+      ],
+      "spam_signals": [],
+      "plan": "pro"
+    }
+  },
+  {
+    "id": "177649792167731w7w",
+    "timestamp": "2026-04-18T07:38:41.677Z",
+    "score": 10,
+    "summary": "Solid full-stack JavaScript engineer with strong React, Node.js, and API development experience. Core skills align well with the technical stack, but significant gaps exist in cloud platforms (AWS/GCP), DevOps (CI/CD, Docker), and NoSQL databases, which are critical requirements. Lack of TypeScript and caching experience also noted.",
+    "email": "macmilanmage@gmail.com",
+    "result": {
+      "summary": "Solid full-stack JavaScript engineer with strong React, Node.js, and API development experience. Core skills align well with the technical stack, but significant gaps exist in cloud platforms (AWS/GCP), DevOps (CI/CD, Docker), and NoSQL databases, which are critical requirements. Lack of TypeScript and caching experience also noted.",
+      "extracted_resume_skills": [
+        {
+          "skill": "JavaScript",
+          "strength": "strong"
+        },
+        {
+          "skill": "React.js",
+          "strength": "strong"
+        },
+        {
+          "skill": "Node.js",
+          "strength": "strong"
+        },
+        {
+          "skill": "HTML/CSS",
+          "strength": "medium"
+        },
+        {
+          "skill": "Git",
+          "strength": "medium"
+        },
+        {
+          "skill": "MySQL",
+          "strength": "medium"
+        },
+        {
+          "skill": "REST APIs",
+          "strength": "strong"
+        },
+        {
+          "skill": "Jest",
+          "strength": "strong"
+        },
+        {
+          "skill": "Agile/Scrum",
+          "strength": "strong"
+        }
+      ],
+      "extracted_jd_critical_skills": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "REST API development",
+        "AWS or GCP cloud platforms",
+        "CI/CD pipelines",
+        "Docker",
+        "SQL",
+        "NoSQL databases",
+        "Agile/Scrum team experience"
+      ],
+      "extracted_jd_nice_to_have_skills": [
+        "TypeScript experience",
+        "Redis or caching experience"
+      ],
+      "top_3_actions": [
+        "Integrate cloud platform experience (AWS/GCP) into a project or certification to address the most significant gap in requirements. For instance, 'Deployed microservices to AWS EC2 instances, reducing server costs by 15%.' -> +25% match",
+        "Demonstrate familiarity with CI/CD pipelines and Docker. Propose a small project where you containerize an application and set up basic CI/CD. Example: 'Implemented Docker containers for Node.js services, streamlining deployment processes and reducing build times by 20%.' -> +20% match",
+        "Expand database expertise beyond MySQL to include NoSQL. Add a personal project utilizing MongoDB or DynamoDB, and mention it explicitly. Example: 'Designed and implemented NoSQL database solutions (MongoDB) for user preference storage, improving data retrieval efficiency.' -> +15% match"
+      ],
+      "rewritten_bullets": [
+        {
+          "before": "Developed React.js dashboards for internal analytics tools",
+          "after": "Engineered and deployed intuitive React.js dashboards for internal analytics, providing real-time data insights that supported 10+ teams and improved decision-making speed by 15%."
+        },
+        {
+          "before": "Collaborated using Agile/Scrum methodology",
+          "after": "Actively participated in Agile/Scrum ceremonies across a 7-member team, consistently delivering features within 2-week sprints and contributing to a 90% on-time project completion rate."
+        }
+      ],
+      "score": 10,
+      "score_breakdown": {
+        "keyword_match": 24,
+        "experience_match": 0,
+        "missing_critical_penalty": -36
+      },
+      "matched_keywords": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL"
+      ],
+      "matched_skills": [
+        {
+          "skill": "JavaScript",
+          "strength": "strong"
+        },
+        {
+          "skill": "React",
+          "strength": "medium"
+        },
+        {
+          "skill": "Node.js",
+          "strength": "strong"
+        },
+        {
+          "skill": "SQL",
+          "strength": "weak"
+        }
+      ],
+      "missing_skills": [
+        {
+          "skill": "REST API development",
+          "priority": "high",
+          "impact": "+11%"
+        },
+        {
+          "skill": "AWS or GCP cloud platforms",
+          "priority": "high",
+          "impact": "+11%"
+        },
+        {
+          "skill": "CI/CD pipelines",
+          "priority": "high",
+          "impact": "+11%"
+        },
+        {
+          "skill": "Docker",
+          "priority": "high",
+          "impact": "+11%"
+        },
+        {
+          "skill": "NoSQL databases",
+          "priority": "high",
+          "impact": "+11%"
+        },
+        {
+          "skill": "Agile/Scrum team experience",
+          "priority": "high",
+          "impact": "+11%"
+        },
+        {
+          "skill": "TypeScript experience",
+          "priority": "low",
+          "impact": "+15%"
+        },
+        {
+          "skill": "Redis or caching experience",
+          "priority": "low",
+          "impact": "+15%"
+        }
+      ],
+      "spam_signals": [],
+      "plan": "pro"
+    }
+  },
+  {
+    "id": "1776496110401n60ad",
+    "timestamp": "2026-04-18T07:08:30.401Z",
+    "score": 10,
+    "summary": "The candidate demonstrates a strong foundation in core JavaScript, React, Node.js, and REST API development, aligning well with the primary technical requirements and possessing more experience than required (3 years). However, there are critical gaps in cloud platforms (AWS/GCP), DevOps practices (CI/CD, Docker), and NoSQL databases, which are essential for this role. While a strong MERN stack developer, the lack of cloud and deployment experience significantly reduces competitiveness for roles requiring a broader full-stack or infrastructure-aware profile.",
+    "email": "macmilanmage@gmail.com",
+    "result": {
+      "summary": "The candidate demonstrates a strong foundation in core JavaScript, React, Node.js, and REST API development, aligning well with the primary technical requirements and possessing more experience than required (3 years). However, there are critical gaps in cloud platforms (AWS/GCP), DevOps practices (CI/CD, Docker), and NoSQL databases, which are essential for this role. While a strong MERN stack developer, the lack of cloud and deployment experience significantly reduces competitiveness for roles requiring a broader full-stack or infrastructure-aware profile.",
+      "extracted_resume_skills": [
+        {
+          "skill": "JavaScript",
+          "strength": "strong"
+        },
+        {
+          "skill": "React.js",
+          "strength": "strong"
+        },
+        {
+          "skill": "Node.js",
+          "strength": "strong"
+        },
+        {
+          "skill": "HTML/CSS",
+          "strength": "medium"
+        },
+        {
+          "skill": "Git",
+          "strength": "medium"
+        },
+        {
+          "skill": "MySQL",
+          "strength": "medium"
+        },
+        {
+          "skill": "REST APIs",
+          "strength": "strong"
+        },
+        {
+          "skill": "Jest",
+          "strength": "strong"
+        },
+        {
+          "skill": "Agile/Scrum",
+          "strength": "strong"
+        }
+      ],
+      "extracted_jd_critical_skills": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "REST API development",
+        "AWS",
+        "GCP",
+        "CI/CD pipelines",
+        "Docker",
+        "SQL databases",
+        "NoSQL databases",
+        "Agile/Scrum"
+      ],
+      "extracted_jd_nice_to_have_skills": [
+        "TypeScript",
+        "Redis",
+        "Caching"
+      ],
+      "top_3_actions": [
+        "**Target Cloud & DevOps Experience:** Implement a personal project deploying a Node.js API to AWS or GCP using Docker and a basic CI/CD pipeline (e.g., GitHub Actions). This directly addresses critical JD gaps. (+15% relevance score)",
+        "**Diversify Database Exposure:** Integrate a NoSQL database (e.g., MongoDB, DynamoDB) into an existing or new project to explicitly demonstrate 'Good understanding of NoSQL databases'. (+10% relevance score)",
+        "**Enhance Technical Depth:** Refactor a significant portion of a React or Node.js project to TypeScript to demonstrate experience with this 'nice-to-have' skill and show proactive learning. (+5% relevance score)"
+      ],
+      "rewritten_bullets": [
+        {
+          "before": "Built REST APIs using Node.js and Express serving 50k daily users",
+          "after": "Engineered high-performance REST APIs with Node.js and Express, reliably serving 50,000+ daily users and enhancing system scalability to support critical application functions."
+        },
+        {
+          "before": "Developed React.js dashboards for internal analytics tools",
+          "after": "Designed and implemented intuitive React.js dashboards for internal analytics, significantly improving data visualization and accelerating decision-making for operational teams."
+        },
+        {
+          "before": "Wrote unit tests with Jest, maintained 85% code coverage",
+          "after": "Ensured robust application stability and code quality by developing comprehensive unit tests with Jest, achieving and maintaining 85%+ code coverage to minimize production defects."
+        },
+        {
+          "before": "Collaborated using Agile/Scrum methodology",
+          "after": "Actively participated in Agile/Scrum sprints, fostering cross-functional collaboration and contributing to the timely and iterative delivery of key product features."
+        }
+      ],
+      "score": 10,
+      "score_breakdown": {
+        "keyword_match": 26,
+        "experience_match": 0,
+        "missing_critical_penalty": -38
+      },
+      "matched_keywords": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "Agile/Scrum"
+      ],
+      "matched_skills": [
+        {
+          "skill": "JavaScript",
+          "strength": "strong"
+        },
+        {
+          "skill": "React",
+          "strength": "medium"
+        },
+        {
+          "skill": "Node.js",
+          "strength": "strong"
+        },
+        {
+          "skill": "Agile/Scrum",
+          "strength": "strong"
+        }
+      ],
+      "missing_skills": [
+        {
+          "skill": "REST API development",
+          "priority": "high",
+          "impact": "+10%"
+        },
+        {
+          "skill": "AWS",
+          "priority": "high",
+          "impact": "+10%"
+        },
+        {
+          "skill": "GCP",
+          "priority": "high",
+          "impact": "+10%"
+        },
+        {
+          "skill": "CI/CD pipelines",
+          "priority": "high",
+          "impact": "+10%"
+        },
+        {
+          "skill": "Docker",
+          "priority": "high",
+          "impact": "+10%"
+        },
+        {
+          "skill": "SQL databases",
+          "priority": "high",
+          "impact": "+10%"
+        },
+        {
+          "skill": "NoSQL databases",
+          "priority": "high",
+          "impact": "+10%"
+        },
+        {
+          "skill": "TypeScript",
+          "priority": "low",
+          "impact": "+10%"
+        },
+        {
+          "skill": "Redis",
+          "priority": "low",
+          "impact": "+10%"
+        },
+        {
+          "skill": "Caching",
+          "priority": "low",
+          "impact": "+10%"
+        }
+      ],
+      "spam_signals": [],
+      "plan": "pro"
+    }
+  },
+  {
+    "id": "1776495727191mxlin",
+    "timestamp": "2026-04-18T07:02:07.191Z",
+    "score": 10,
+    "summary": "Strong core JavaScript, React, and Node.js backend profile with proven API development and Agile experience. Critical gaps exist in cloud platforms (AWS/GCP) and DevOps practices (CI/CD, Docker), which are primary requirements for this role. Database knowledge is present but lacks depth beyond SQL.",
+    "email": "macmilanmage@gmail.com",
+    "result": {
+      "summary": "Strong core JavaScript, React, and Node.js backend profile with proven API development and Agile experience. Critical gaps exist in cloud platforms (AWS/GCP) and DevOps practices (CI/CD, Docker), which are primary requirements for this role. Database knowledge is present but lacks depth beyond SQL.",
+      "extracted_resume_skills": [
+        {
+          "skill": "JavaScript",
+          "strength": "strong"
+        },
+        {
+          "skill": "React.js",
+          "strength": "strong"
+        },
+        {
+          "skill": "Node.js",
+          "strength": "strong"
+        },
+        {
+          "skill": "HTML/CSS",
+          "strength": "medium"
+        },
+        {
+          "skill": "Git",
+          "strength": "medium"
+        },
+        {
+          "skill": "MySQL",
+          "strength": "medium"
+        },
+        {
+          "skill": "REST APIs",
+          "strength": "strong"
+        },
+        {
+          "skill": "Jest",
+          "strength": "strong"
+        },
+        {
+          "skill": "Agile/Scrum methodology",
+          "strength": "strong"
+        }
+      ],
+      "extracted_jd_critical_skills": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "REST API development",
+        "AWS or GCP cloud platforms",
+        "CI/CD pipelines",
+        "Docker",
+        "SQL",
+        "NoSQL databases",
+        "Agile/Scrum team experience"
+      ],
+      "extracted_jd_nice_to_have_skills": [
+        "TypeScript",
+        "Redis",
+        "caching"
+      ],
+      "top_3_actions": [
+        "Develop a personal project deploying a full-stack application on AWS (e.g., EC2, S3, RDS) utilizing Docker containers and a basic CI/CD pipeline (e.g., GitHub Actions). Add this project with specific technologies to the resume to address critical cloud and DevOps gaps. -> +25% match",
+        "Expand 'SKILLS' to explicitly state 'SQL databases' and if possible, add a bullet under experience detailing specific MySQL contributions (e.g., schema design, query optimization, ORM usage) or introduce NoSQL concepts if applicable. -> +8% match",
+        "Actively seek opportunities at TechCorp or in personal projects to gain exposure to TypeScript. Adding 'TypeScript' to your skills list, even with 'familiarity', will address a 'nice-to-have' requirement. -> +5% match"
+      ],
+      "rewritten_bullets": [
+        {
+          "before": "Developed React.js dashboards for internal analytics tools",
+          "after": "Engineered responsive React.js dashboards, enhancing internal data visualization and enabling real-time analytics for business stakeholders."
+        },
+        {
+          "before": "Collaborated using Agile/Scrum methodology",
+          "after": "Actively participated in Agile/Scrum ceremonies (sprint planning, daily stand-ups, retrospectives), contributing to efficient project delivery and continuous improvement."
+        }
+      ],
+      "score": 10,
+      "score_breakdown": {
+        "keyword_match": 24,
+        "experience_match": 0,
+        "missing_critical_penalty": -36
+      },
+      "matched_keywords": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL"
+      ],
+      "matched_skills": [
+        {
+          "skill": "JavaScript",
+          "strength": "strong"
+        },
+        {
+          "skill": "React",
+          "strength": "medium"
+        },
+        {
+          "skill": "Node.js",
+          "strength": "strong"
+        },
+        {
+          "skill": "SQL",
+          "strength": "weak"
+        }
+      ],
+      "missing_skills": [
+        {
+          "skill": "REST API development",
+          "priority": "high",
+          "impact": "+11%"
+        },
+        {
+          "skill": "AWS or GCP cloud platforms",
+          "priority": "high",
+          "impact": "+11%"
+        },
+        {
+          "skill": "CI/CD pipelines",
+          "priority": "high",
+          "impact": "+11%"
+        },
+        {
+          "skill": "Docker",
+          "priority": "high",
+          "impact": "+11%"
+        },
+        {
+          "skill": "NoSQL databases",
+          "priority": "high",
+          "impact": "+11%"
+        },
+        {
+          "skill": "Agile/Scrum team experience",
+          "priority": "high",
+          "impact": "+11%"
+        },
+        {
+          "skill": "TypeScript",
+          "priority": "low",
+          "impact": "+10%"
+        },
+        {
+          "skill": "Redis",
+          "priority": "low",
+          "impact": "+10%"
+        },
+        {
+          "skill": "caching",
+          "priority": "low",
+          "impact": "+10%"
+        }
+      ],
+      "spam_signals": [],
+      "plan": "pro"
+    }
+  },
+  {
+    "id": "1776495057739f70i6",
+    "timestamp": "2026-04-18T06:50:57.739Z",
+    "score": 10,
+    "summary": "Strong Node.js and React profile with solid Agile experience, meeting core requirements for front-end and API development. However, significant gaps in cloud platforms (AWS/GCP), CI/CD, Docker, and NoSQL databases critically limit suitability for a full-stack product team role that demands broader infrastructure knowledge.",
+    "email": "macmilanmage@gmail.com",
+    "result": {
+      "summary": "Strong Node.js and React profile with solid Agile experience, meeting core requirements for front-end and API development. However, significant gaps in cloud platforms (AWS/GCP), CI/CD, Docker, and NoSQL databases critically limit suitability for a full-stack product team role that demands broader infrastructure knowledge.",
+      "extracted_resume_skills": [
+        {
+          "skill": "JavaScript",
+          "strength": "strong"
+        },
+        {
+          "skill": "React.js",
+          "strength": "strong"
+        },
+        {
+          "skill": "Node.js",
+          "strength": "strong"
+        },
+        {
+          "skill": "HTML/CSS",
+          "strength": "medium"
+        },
+        {
+          "skill": "Git",
+          "strength": "medium"
+        },
+        {
+          "skill": "MySQL",
+          "strength": "medium"
+        },
+        {
+          "skill": "REST APIs",
+          "strength": "strong"
+        },
+        {
+          "skill": "Jest",
+          "strength": "strong"
+        },
+        {
+          "skill": "Agile/Scrum",
+          "strength": "strong"
+        }
+      ],
+      "extracted_jd_critical_skills": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "REST API development",
+        "AWS or GCP cloud platforms",
+        "CI/CD pipelines",
+        "Docker",
+        "SQL",
+        "NoSQL databases",
+        "Agile/Scrum team experience"
+      ],
+      "extracted_jd_nice_to_have_skills": [
+        "TypeScript",
+        "Redis or caching experience"
+      ],
+      "top_3_actions": [
+        "Develop a personal project deploying a Node.js/React application to AWS/GCP using Docker and CI/CD (e.g., GitHub Actions), directly addressing three critical skill gaps. -> +30% fit",
+        "Integrate a NoSQL database (e.g., MongoDB, DynamoDB) into an existing or new project to fulfill the NoSQL requirement. -> +10% fit",
+        "Refactor a small existing JavaScript project to TypeScript to demonstrate familiarity with a key 'nice-to-have' skill. -> +5% fit"
+      ],
+      "rewritten_bullets": [
+        {
+          "before": "Collaborated using Agile/Scrum methodology",
+          "after": "Actively contributed to a 5-person Agile/Scrum team, consistently delivering features within sprint cycles and improving team velocity by 15% through proactive problem-solving and code reviews."
+        }
+      ],
+      "score": 10,
+      "score_breakdown": {
+        "keyword_match": 24,
+        "experience_match": 0,
+        "missing_critical_penalty": -36
+      },
+      "matched_keywords": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL"
+      ],
+      "matched_skills": [
+        {
+          "skill": "JavaScript",
+          "strength": "strong"
+        },
+        {
+          "skill": "React",
+          "strength": "medium"
+        },
+        {
+          "skill": "Node.js",
+          "strength": "strong"
+        },
+        {
+          "skill": "SQL",
+          "strength": "weak"
+        }
+      ],
+      "missing_skills": [
+        {
+          "skill": "REST API development",
+          "priority": "high",
+          "impact": "+11%"
+        },
+        {
+          "skill": "AWS or GCP cloud platforms",
+          "priority": "high",
+          "impact": "+11%"
+        },
+        {
+          "skill": "CI/CD pipelines",
+          "priority": "high",
+          "impact": "+11%"
+        },
+        {
+          "skill": "Docker",
+          "priority": "high",
+          "impact": "+11%"
+        },
+        {
+          "skill": "NoSQL databases",
+          "priority": "high",
+          "impact": "+11%"
+        },
+        {
+          "skill": "Agile/Scrum team experience",
+          "priority": "high",
+          "impact": "+11%"
+        },
+        {
+          "skill": "TypeScript",
+          "priority": "low",
+          "impact": "+15%"
+        },
+        {
+          "skill": "Redis or caching experience",
+          "priority": "low",
+          "impact": "+15%"
+        }
+      ],
+      "spam_signals": [],
+      "plan": "free"
+    }
+  },
+  {
+    "id": "1776488018791a2obb",
+    "timestamp": "2026-04-18T04:53:38.791Z",
+    "score": 10,
+    "summary": "Priya presents a strong core profile in JavaScript, React.js, Node.js, and REST API development, meeting primary technical requirements and demonstrating solid Agile/Scrum experience. However, there are significant gaps in critical areas such as cloud platforms (AWS/GCP), CI/CD pipelines, Docker, and NoSQL databases, which are explicitly required by the job description. Addressing these gaps is crucial for competitiveness.",
+    "result": {
+      "summary": "Priya presents a strong core profile in JavaScript, React.js, Node.js, and REST API development, meeting primary technical requirements and demonstrating solid Agile/Scrum experience. However, there are significant gaps in critical areas such as cloud platforms (AWS/GCP), CI/CD pipelines, Docker, and NoSQL databases, which are explicitly required by the job description. Addressing these gaps is crucial for competitiveness.",
+      "extracted_resume_skills": [
+        {
+          "skill": "JavaScript",
+          "strength": "strong"
+        },
+        {
+          "skill": "React.js",
+          "strength": "strong"
+        },
+        {
+          "skill": "Node.js",
+          "strength": "strong"
+        },
+        {
+          "skill": "REST APIs",
+          "strength": "strong"
+        },
+        {
+          "skill": "MySQL",
+          "strength": "medium"
+        },
+        {
+          "skill": "Agile/Scrum",
+          "strength": "strong"
+        },
+        {
+          "skill": "Jest",
+          "strength": "medium"
+        },
+        {
+          "skill": "HTML/CSS",
+          "strength": "medium"
+        },
+        {
+          "skill": "Git",
+          "strength": "medium"
+        }
+      ],
+      "extracted_jd_critical_skills": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "REST API development",
+        "AWS or GCP cloud platforms",
+        "CI/CD pipelines",
+        "Docker",
+        "SQL databases",
+        "NoSQL databases",
+        "Agile/Scrum team experience"
+      ],
+      "extracted_jd_nice_to_have_skills": [
+        "TypeScript experience",
+        "Redis or caching experience"
+      ],
+      "top_3_actions": [
+        "Develop a personal project integrating a cloud platform (AWS/GCP), Docker, and a basic CI/CD pipeline (e.g., GitHub Actions), then add it to your experience section to address critical requirements. -> +25% match rate",
+        "Incorporate project experience with a NoSQL database (e.g., MongoDB, DynamoDB) to demonstrate a broader understanding of database technologies. -> +10% match rate",
+        "Integrate TypeScript into a small personal project to showcase familiarity and add it to your skills list, addressing a 'nice-to-have'. -> +5% match rate"
+      ],
+      "rewritten_bullets": [
+        {
+          "before": "Developed React.js dashboards for internal analytics tools",
+          "after": "Engineered and deployed intuitive React.js dashboards, enhancing data visualization and delivering critical operational insights to internal teams, improving data accessibility and decision support."
+        }
+      ],
+      "score": 10,
+      "score_breakdown": {
+        "keyword_match": 21,
+        "experience_match": 0,
+        "missing_critical_penalty": -42
+      },
+      "matched_keywords": [
+        "JavaScript",
+        "React",
+        "Node.js"
+      ],
+      "matched_skills": [
+        {
+          "skill": "JavaScript",
+          "strength": "strong"
+        },
+        {
+          "skill": "React",
+          "strength": "medium"
+        },
+        {
+          "skill": "Node.js",
+          "strength": "strong"
+        }
+      ],
+      "missing_skills": [
+        {
+          "skill": "REST API development",
+          "priority": "high",
+          "impact": "+11%"
+        },
+        {
+          "skill": "AWS or GCP cloud platforms",
+          "priority": "high",
+          "impact": "+11%"
+        },
+        {
+          "skill": "CI/CD pipelines",
+          "priority": "high",
+          "impact": "+11%"
+        },
+        {
+          "skill": "Docker",
+          "priority": "high",
+          "impact": "+11%"
+        },
+        {
+          "skill": "SQL databases",
+          "priority": "high",
+          "impact": "+11%"
+        },
+        {
+          "skill": "NoSQL databases",
+          "priority": "high",
+          "impact": "+11%"
+        },
+        {
+          "skill": "Agile/Scrum team experience",
+          "priority": "high",
+          "impact": "+11%"
+        },
+        {
+          "skill": "TypeScript experience",
+          "priority": "low",
+          "impact": "+15%"
+        },
+        {
+          "skill": "Redis or caching experience",
+          "priority": "low",
+          "impact": "+15%"
+        }
+      ],
+      "spam_signals": []
+    }
+  },
+  {
+    "id": "1776486449403ujbmt",
+    "timestamp": "2026-04-18T04:27:29.403Z",
+    "score": 10,
+    "summary": "Strong core JavaScript, React, and Node.js backend profile with relevant Agile experience, meeting the experience threshold. However, significant critical gaps in cloud platforms (AWS/GCP), CI/CD, Docker, and explicit NoSQL database experience severely limit competitiveness for a role requiring these DevOps-adjacent skills.",
+    "result": {
+      "summary": "Strong core JavaScript, React, and Node.js backend profile with relevant Agile experience, meeting the experience threshold. However, significant critical gaps in cloud platforms (AWS/GCP), CI/CD, Docker, and explicit NoSQL database experience severely limit competitiveness for a role requiring these DevOps-adjacent skills.",
+      "extracted_resume_skills": [
+        "JavaScript",
+        "React.js",
+        "Node.js",
+        "HTML/CSS",
+        "Git",
+        "MySQL",
+        "REST APIs",
+        "Jest",
+        "Agile/Scrum"
+      ],
+      "extracted_jd_critical_skills": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "REST API development",
+        "AWS",
+        "GCP",
+        "CI/CD pipelines",
+        "Docker",
+        "SQL",
+        "NoSQL databases",
+        "Agile/Scrum team experience"
+      ],
+      "extracted_jd_nice_to_have_skills": [
+        "TypeScript",
+        "Redis",
+        "caching"
+      ],
+      "top_3_actions": [
+        "Develop a personal project deploying a Node.js application to AWS (e.g., EC2/ECS) using Docker containers, integrating a basic CI/CD pipeline (e.g., GitHub Actions). Add a dedicated project bullet to your resume showcasing these critical skills. -> +35% direct requirement match.",
+        "If you have any experience with NoSQL databases (e.g., MongoDB, Redis, DynamoDB), add it explicitly to your 'SKILLS' section. If not, consider a quick tutorial or small project to gain foundational knowledge and add 'Familiarity with NoSQL databases (e.g., MongoDB)' to your skills. -> +10% direct requirement match.",
+        "Begin learning TypeScript and Redis/caching concepts. Even a 'Currently exploring TypeScript and Redis for performance optimization' in your skills or a project note can demonstrate initiative and address 'nice-to-have' requirements. -> +8% overall fit."
+      ],
+      "rewritten_bullets": [
+        {
+          "before": "Developed React.js dashboards for internal analytics tools",
+          "after": "Engineered robust React.js dashboards for internal analytics, enabling data-driven decision-making and streamlining reporting for key stakeholders within product teams."
+        }
+      ],
+      "score": 10,
+      "score_breakdown": {
+        "keyword_match": 18,
+        "experience_match": 0,
+        "missing_critical_penalty": -38
+      },
+      "matched_keywords": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL"
+      ],
+      "missing_skills": [
+        {
+          "skill": "REST API development",
+          "priority": "high",
+          "impact": "+10%"
+        },
+        {
+          "skill": "AWS",
+          "priority": "high",
+          "impact": "+10%"
+        },
+        {
+          "skill": "GCP",
+          "priority": "high",
+          "impact": "+10%"
+        },
+        {
+          "skill": "CI/CD pipelines",
+          "priority": "high",
+          "impact": "+10%"
+        },
+        {
+          "skill": "Docker",
+          "priority": "high",
+          "impact": "+10%"
+        },
+        {
+          "skill": "NoSQL databases",
+          "priority": "high",
+          "impact": "+10%"
+        },
+        {
+          "skill": "Agile/Scrum team experience",
+          "priority": "high",
+          "impact": "+10%"
+        },
+        {
+          "skill": "TypeScript",
+          "priority": "low",
+          "impact": "+10%"
+        },
+        {
+          "skill": "Redis",
+          "priority": "low",
+          "impact": "+10%"
+        },
+        {
+          "skill": "caching",
+          "priority": "low",
+          "impact": "+10%"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1776367359502inp1s",
+    "timestamp": "2026-04-16T19:22:39.502Z",
+    "score": 10,
+    "summary": "Strong core JavaScript, React, and Node.js profile with proven REST API development and Agile experience. However, critical gaps in cloud platforms (AWS/GCP), DevOps practices (CI/CD, Docker), and comprehensive database knowledge (NoSQL) significantly reduce competitiveness for a full-stack role aligned with the job description.",
+    "result": {
+      "summary": "Strong core JavaScript, React, and Node.js profile with proven REST API development and Agile experience. However, critical gaps in cloud platforms (AWS/GCP), DevOps practices (CI/CD, Docker), and comprehensive database knowledge (NoSQL) significantly reduce competitiveness for a full-stack role aligned with the job description.",
+      "extracted_resume_skills": [
+        "JavaScript",
+        "React.js",
+        "Node.js",
+        "HTML/CSS",
+        "Git",
+        "MySQL",
+        "REST APIs",
+        "Jest",
+        "Agile",
+        "Scrum"
+      ],
+      "extracted_jd_critical_skills": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "REST API development",
+        "AWS",
+        "GCP",
+        "CI/CD pipelines",
+        "Docker",
+        "SQL",
+        "NoSQL databases",
+        "Agile/Scrum team experience"
+      ],
+      "extracted_jd_nice_to_have_skills": [
+        "TypeScript",
+        "Redis",
+        "caching"
+      ],
+      "top_3_actions": [
+        "Acquire and demonstrate AWS/GCP experience: Complete a relevant certification or build a small project deploying an application on AWS/GCP, updating the resume to reflect this. -> +20% ATS match",
+        "Integrate CI/CD & Docker into projects: Document a personal or open-source project where you've implemented CI/CD pipelines and containerization with Docker, ensuring these keywords are prominent on your resume. -> +15% ATS match",
+        "Expand database expertise: Gain hands-on experience with a NoSQL database (e.g., MongoDB, DynamoDB) and add it to your skills section and project examples. -> +10% ATS match"
+      ],
+      "rewritten_bullets": [
+        {
+          "before": "Developed React.js dashboards for internal analytics tools",
+          "after": "Engineered intuitive React.js dashboards for internal analytics, enhancing data visibility by 25% and accelerating data-driven decision-making for product and operations teams."
+        }
+      ],
+      "score": 10,
+      "score_breakdown": {
+        "keyword_match": 18,
+        "experience_match": 0,
+        "missing_critical_penalty": -38
+      },
+      "matched_keywords": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL"
+      ],
+      "missing_skills": [
+        {
+          "skill": "REST API development",
+          "priority": "high",
+          "impact": "+10%"
+        },
+        {
+          "skill": "AWS",
+          "priority": "high",
+          "impact": "+10%"
+        },
+        {
+          "skill": "GCP",
+          "priority": "high",
+          "impact": "+10%"
+        },
+        {
+          "skill": "CI/CD pipelines",
+          "priority": "high",
+          "impact": "+10%"
+        },
+        {
+          "skill": "Docker",
+          "priority": "high",
+          "impact": "+10%"
+        },
+        {
+          "skill": "NoSQL databases",
+          "priority": "high",
+          "impact": "+10%"
+        },
+        {
+          "skill": "Agile/Scrum team experience",
+          "priority": "high",
+          "impact": "+10%"
+        },
+        {
+          "skill": "TypeScript",
+          "priority": "low",
+          "impact": "+10%"
+        },
+        {
+          "skill": "Redis",
+          "priority": "low",
+          "impact": "+10%"
+        },
+        {
+          "skill": "caching",
+          "priority": "low",
+          "impact": "+10%"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1776366709666kcve1",
+    "timestamp": "2026-04-16T19:11:49.666Z",
+    "score": 0,
+    "summary": "Solid core in JavaScript, React, and Node.js with relevant experience in REST API development and Agile methodologies. However, significant gaps exist in critical cloud (AWS/GCP) and DevOps (CI/CD, Docker) experience, along with exposure to NoSQL databases, which limits competitiveness for a full-stack role requiring broader infrastructure knowledge.",
+    "result": {
+      "summary": "Solid core in JavaScript, React, and Node.js with relevant experience in REST API development and Agile methodologies. However, significant gaps exist in critical cloud (AWS/GCP) and DevOps (CI/CD, Docker) experience, along with exposure to NoSQL databases, which limits competitiveness for a full-stack role requiring broader infrastructure knowledge.",
+      "extracted_resume_skills": [
+        "JavaScript",
+        "React.js",
+        "Node.js",
+        "HTML/CSS",
+        "Git",
+        "MySQL",
+        "REST APIs",
+        "Jest"
+      ],
+      "extracted_jd_critical_skills": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "REST API development",
+        "AWS",
+        "GCP",
+        "CI/CD pipelines",
+        "Docker",
+        "SQL",
+        "NoSQL databases",
+        "Agile/Scrum"
+      ],
+      "extracted_jd_nice_to_have_skills": [
+        "TypeScript",
+        "Redis",
+        "caching"
+      ],
+      "top_3_actions": [
+        "Prioritize a project to deploy a Node.js application using Docker on an AWS/GCP cloud platform (e.g., ECS/EKS), including a basic CI/CD pipeline, and highlight this in your experience. -> +25%",
+        "Gain practical experience with a NoSQL database (e.g., MongoDB, DynamoDB) through a personal or work project and explicitly mention it. -> +10%",
+        "Add more specific metrics and results to existing bullet points, particularly for React.js dashboards and Node.js APIs, focusing on the business impact or scale beyond users. -> +8%"
+      ],
+      "rewritten_bullets": [
+        {
+          "before": "Developed React.js dashboards for internal analytics tools",
+          "after": "Engineered and deployed three interactive React.js dashboards, providing critical real-time insights for internal analytics and improving operational efficiency by 15%."
+        }
+      ],
+      "score": 0,
+      "score_breakdown": {
+        "keyword_match": 40,
+        "experience_match": 0,
+        "missing_critical_penalty": -105
+      },
+      "matched_keywords": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL"
+      ],
+      "missing_skills": [
+        {
+          "skill": "REST API development",
+          "priority": "high",
+          "impact": "+10%"
+        },
+        {
+          "skill": "AWS",
+          "priority": "high",
+          "impact": "+10%"
+        },
+        {
+          "skill": "GCP",
+          "priority": "high",
+          "impact": "+10%"
+        },
+        {
+          "skill": "CI/CD pipelines",
+          "priority": "high",
+          "impact": "+10%"
+        },
+        {
+          "skill": "Docker",
+          "priority": "high",
+          "impact": "+10%"
+        },
+        {
+          "skill": "NoSQL databases",
+          "priority": "high",
+          "impact": "+10%"
+        },
+        {
+          "skill": "Agile/Scrum",
+          "priority": "high",
+          "impact": "+10%"
+        },
+        {
+          "skill": "TypeScript",
+          "priority": "low",
+          "impact": "+5%"
+        },
+        {
+          "skill": "Redis",
+          "priority": "low",
+          "impact": "+5%"
+        },
+        {
+          "skill": "caching",
+          "priority": "low",
+          "impact": "+5%"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1776366443678lb565",
+    "timestamp": "2026-04-16T19:07:23.678Z",
+    "score": 0,
+    "summary": "Priya presents a strong foundation in core full-stack JavaScript (React, Node.js, REST APIs) and Agile methodologies, fulfilling the primary experience requirements. However, critical gaps exist in cloud platforms (AWS/GCP), CI/CD, and Docker, which are explicit requirements. While SQL is mentioned via MySQL, a 'good understanding' of both SQL and NoSQL databases needs clearer demonstration. Addressing these operational and database breadth deficiencies is crucial to become a competitive candidate for a full product team role.",
+    "result": {
+      "summary": "Priya presents a strong foundation in core full-stack JavaScript (React, Node.js, REST APIs) and Agile methodologies, fulfilling the primary experience requirements. However, critical gaps exist in cloud platforms (AWS/GCP), CI/CD, and Docker, which are explicit requirements. While SQL is mentioned via MySQL, a 'good understanding' of both SQL and NoSQL databases needs clearer demonstration. Addressing these operational and database breadth deficiencies is crucial to become a competitive candidate for a full product team role.",
+      "extracted_jd_critical_skills": [
+        "2+ years experience in JavaScript and React",
+        "Strong knowledge of Node.js and REST API development",
+        "Experience with AWS or GCP cloud platforms",
+        "Familiarity with CI/CD pipelines and Docker",
+        "Good understanding of SQL and NoSQL databases",
+        "Agile/Scrum team experience"
+      ],
+      "extracted_jd_nice_to_have_skills": [
+        "TypeScript experience",
+        "Redis or caching experience"
+      ],
+      "top_3_actions": [
+        "Acquire and demonstrate practical experience with AWS/GCP and Docker/CI/CD (e.g., via a personal project or online course), explicitly adding these to skills and experience. -> +30% Role Fit",
+        "Expand database proficiency beyond MySQL; explicitly state strong SQL querying skills and gain basic exposure to a NoSQL database, then update the skills section. -> +15% Database Competency",
+        "Quantify the impact of the 'React.js dashboards' beyond just development (e.g., 'improved data analysis efficiency by X% for Y teams'). -> +10% Impact & Value Articulation"
+      ],
+      "rewritten_bullets": [
+        {
+          "before": "Built REST APIs using Node.js and Express serving 50k daily users",
+          "after": "Designed and implemented high-performance RESTful APIs using Node.js and Express, reliably serving 50,000+ daily users with average response times under 200ms."
+        },
+        {
+          "before": "Developed React.js dashboards for internal analytics tools",
+          "after": "Developed interactive React.js dashboards for critical internal analytics platforms, improving data visibility and empowering data-driven decisions across multiple internal teams."
+        },
+        {
+          "before": "Wrote unit tests with Jest, maintained 85% code coverage",
+          "after": "Ensured robust code quality and system stability by implementing comprehensive unit tests with Jest, consistently achieving and maintaining over 85% code coverage for core services."
+        }
+      ],
+      "score": 0,
+      "score_breakdown": {
+        "keyword_match": 0,
+        "experience_match": 0,
+        "missing_critical_penalty": -90
+      },
+      "matched_keywords": [],
+      "missing_skills": [
+        {
+          "skill": "2+ years experience in JavaScript and React",
+          "priority": "high",
+          "impact": "+10%"
+        },
+        {
+          "skill": "Strong knowledge of Node.js and REST API development",
+          "priority": "high",
+          "impact": "+10%"
+        },
+        {
+          "skill": "Experience with AWS or GCP cloud platforms",
+          "priority": "high",
+          "impact": "+10%"
+        },
+        {
+          "skill": "Familiarity with CI/CD pipelines and Docker",
+          "priority": "high",
+          "impact": "+10%"
+        },
+        {
+          "skill": "Good understanding of SQL and NoSQL databases",
+          "priority": "high",
+          "impact": "+10%"
+        },
+        {
+          "skill": "Agile/Scrum team experience",
+          "priority": "high",
+          "impact": "+10%"
+        },
+        {
+          "skill": "TypeScript experience",
+          "priority": "low",
+          "impact": "+5%"
+        },
+        {
+          "skill": "Redis or caching experience",
+          "priority": "low",
+          "impact": "+5%"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1776365965238tzgfh",
+    "timestamp": "2026-04-16T18:59:25.238Z",
+    "score": 50,
+    "summary": "The candidate presents a strong foundation in core JavaScript, React, Node.js, and REST API development, but has significant gaps in cloud platforms (AWS/GCP) and CI/CD/Docker experience crucial for this role.",
+    "result": {
+      "score": 50,
+      "summary": "The candidate presents a strong foundation in core JavaScript, React, Node.js, and REST API development, but has significant gaps in cloud platforms (AWS/GCP) and CI/CD/Docker experience crucial for this role.",
+      "matched_keywords": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "REST API development",
+        "SQL",
+        "MySQL",
+        "Agile/Scrum",
+        "Express",
+        "Jest"
+      ],
+      "missing_keywords": [
+        "AWS",
+        "GCP",
+        "CI/CD pipelines",
+        "Docker",
+        "NoSQL databases",
+        "TypeScript",
+        "Redis",
+        "caching"
+      ],
+      "critical_gaps": [
+        {
+          "gap": "Missing any experience with AWS or GCP cloud platforms, which is a core requirement.",
+          "priority": "high"
+        },
+        {
+          "gap": "Lack of familiarity or experience with CI/CD pipelines and Docker, a key requirement for modern development practices.",
+          "priority": "high"
+        },
+        {
+          "gap": "Experience with NoSQL databases is not mentioned, only SQL (MySQL).",
+          "priority": "medium"
+        }
+      ],
+      "improvement_suggestions": [
+        "Add any relevant AWS or GCP experience (even from personal projects or certifications) to increase the match score by ~15-20%.",
+        "Integrate specific examples of exposure to CI/CD tools (e.g., Jenkins, GitHub Actions) and Docker into your experience to boost relevance by ~10-15%.",
+        "If applicable, include any experience with NoSQL databases (e.g., MongoDB, DynamoDB) to fully address the database requirement, increasing match by ~5%.",
+        "Quantify the impact of the React.js dashboards developed for 'internal analytics tools' (e.g., 'improved reporting efficiency by X%').",
+        "If you have any experience with TypeScript, Redis, or caching, explicitly add it to address the 'nice to have' skills and further differentiate your profile."
+      ],
+      "rewritten_bullets": [
+        {
+          "before": "Developed React.js dashboards for internal analytics tools",
+          "after": "Engineered dynamic React.js dashboards for critical internal analytics tools, enhancing data visualization and providing actionable insights for key stakeholders."
+        },
+        {
+          "before": "Collaborated using Agile/Scrum methodology",
+          "after": "Actively contributed to Agile/Scrum development sprints, participating in stand-ups, planning, and retrospectives to facilitate efficient feature delivery and ensure alignment with product goals."
+        }
+      ]
+    }
+  }
+]
