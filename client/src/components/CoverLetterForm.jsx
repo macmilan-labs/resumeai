@@ -1,0 +1,124 @@
+import React, { useState, useRef } from 'react';
+import { getCoverLetter } from '../api.js';
+import { useNavigate } from 'react-router-dom';
+
+const COOLDOWN = 2500;
+
+const SAMPLE_RESUME = `Priya Sharma | Mumbai\nSoftware Engineer — 3 years experience\n• Built REST APIs using Node.js\n• Developed React.js dashboards\n• Agile/Scrum methodology`;
+const SAMPLE_JD = `Software Engineer needed.\nRequirements:\n• JavaScript and React\n• Node.js and REST APIs\n• Agile/Scrum`;
+
+export default function CoverLetterForm({ remaining, plan, isProUser, onResult, showToast, consumeUsage, userToken }) {
+  const navigate = useNavigate();
+  const [resume,  setResume]  = useState('');
+  const [jd,      setJd]      = useState('');
+  const [name,    setName]    = useState('');
+  const [loading, setLoading] = useState(false);
+  const lastRun = useRef(0);
+  const running = useRef(false);
+
+  function fillSample() {
+    setResume(SAMPLE_RESUME);
+    setJd(SAMPLE_JD);
+    setName('Priya Sharma');
+    showToast('Example data loaded');
+  }
+
+  async function handleSubmit() {
+    if (!resume.trim() || !jd.trim()) { showToast('Provide resume and JD first'); return; }
+    if (plan !== 'pro' && remaining <= 0 && !userToken) { navigate('/pricing'); return; }
+    if (running.current) return;
+    if (Date.now() - lastRun.current < COOLDOWN) { showToast('Wait a moment...'); return; }
+
+    running.current = true;
+    lastRun.current = Date.now();
+    setLoading(true);
+    try {
+      const data = await getCoverLetter(resume, jd, name || 'Applicant');
+      onResult(data.cover_letter || data);
+      consumeUsage();
+      showToast('Cover letter generated below');
+    } catch (err) {
+      showToast('Failed — ' + err.message);
+    } finally {
+      setLoading(false);
+      running.current = false;
+    }
+  }
+
+  return (
+    <div className="space-y-8 animate-in fade-in duration-500">
+      <div className="flex items-center justify-between p-6 bg-slate-50 border border-slate-100 rounded-2xl shadow-sm">
+        <div className="flex items-center gap-3">
+          <div className="w-2 h-2 rounded-full bg-blue-600 animate-pulse" />
+          <span className="text-[11px] font-black text-slate-500 uppercase tracking-widest">
+            Credits Remaining: <span className="text-blue-600 ml-1">{isProUser ? 'Unlimited ∞' : `${remaining} / 5`}</span>
+          </span>
+        </div>
+        <button onClick={() => navigate('/pricing')} className="text-[10px] font-black text-orange-600 uppercase tracking-[0.2em] border-b border-orange-200">
+          Unlock Unlimited
+        </button>
+      </div>
+
+      <div className="grid grid-cols-1 lg:grid-cols-2 gap-10">
+        <div>
+          <div className="flex items-center justify-between mb-4">
+            <label className="text-xs font-black text-slate-900 uppercase tracking-widest flex items-center gap-2">
+               <span className="material-icons-outlined text-sm text-blue-600">badge</span> 
+               Candidate Experience
+            </label>
+            <button onClick={fillSample} className="text-[10px] font-bold text-blue-600 hover:bg-blue-50 px-3 py-1.5 rounded-lg transition-all">Try Sample</button>
+          </div>
+          <textarea 
+            value={resume} 
+            onChange={e => setResume(e.target.value)} 
+            placeholder="Paste your resume or list of achievements..."
+            className="w-full min-h-[200px] p-8 text-sm text-slate-700 bg-slate-50/30 border border-slate-200 rounded-[2.5rem] font-medium focus:bg-white focus:border-blue-500 focus:ring-4 focus:ring-blue-100 transition-all outline-none leading-relaxed placeholder:text-slate-300 shadow-sm"
+          />
+        </div>
+        <div>
+          <label className="text-xs font-black text-slate-900 uppercase tracking-widest flex items-center gap-2 mb-4">
+            <span className="material-icons-outlined text-sm text-blue-600">architecture</span>
+            Target Role Requirements
+          </label>
+          <textarea 
+            value={jd} 
+            onChange={e => setJd(e.target.value)} 
+            placeholder="Paste the job requirements..."
+            className="w-full min-h-[200px] p-8 text-sm text-slate-700 bg-slate-50/30 border border-slate-200 rounded-[2.5rem] font-medium focus:bg-white focus:border-blue-500 focus:ring-4 focus:ring-blue-100 transition-all outline-none leading-relaxed placeholder:text-slate-300 shadow-sm"
+          />
+        </div>
+      </div>
+
+      <div>
+        <label className="text-xs font-black text-slate-900 uppercase tracking-widest flex items-center gap-2 mb-4">
+          <span className="material-icons-outlined text-sm text-blue-600">person_outline</span>
+          Your Full Name
+        </label>
+        <input 
+          value={name} 
+          onChange={e => setName(e.target.value)} 
+          placeholder="e.g. Rahul Sharma" 
+          className="w-full p-5 bg-slate-50/30 border border-slate-200 rounded-2xl text-sm font-bold focus:bg-white outline-none focus:border-blue-500 focus:ring-4 focus:ring-blue-100 shadow-sm transition-all"
+        />
+      </div>
+
+      <button 
+        onClick={handleSubmit} 
+        disabled={loading} 
+        className="w-full px-10 py-5 bg-blue-600 hover:bg-blue-700 disabled:bg-slate-300 text-white font-black text-xs uppercase tracking-[0.2em] rounded-[2.5rem] shadow-2xl shadow-blue-200 hover:shadow-blue-300 transition-all duration-300 flex items-center justify-center gap-4 group active:scale-95"
+      >
+        {loading ? (
+          <>
+            <div className="w-4 h-4 border-2 border-white/20 border-t-white rounded-full animate-spin" />
+            Writing Letter...
+          </>
+        ) : (
+          <>
+            Generate AI Cover Letter
+            <span className="material-icons-outlined group-hover:translate-x-1 transition-transform">auto_fix_high</span>
+          </>
+        )}
+      </button>
+    </div>
+  );
+}
